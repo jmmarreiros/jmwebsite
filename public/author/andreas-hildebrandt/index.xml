@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Hildebrandt | Research on Stone tool use</title>
+    <link>/author/andreas-hildebrandt/</link>
+      <atom:link href="/author/andreas-hildebrandt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Hildebrandt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue3d6bcc15444d0d34fa050ebbc71bc97_1077441_512x512_fill_lanczos_center_2.png</url>
+      <title>Andreas Hildebrandt</title>
+      <link>/author/andreas-hildebrandt/</link>
+    </image>
+    
+    <item>
+      <title>The effect of numerical aperture on quantitative use-wear studies and its implication on reproducibility</title>
+      <link>/publication/2019_calandra_nsr/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_calandra_nsr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

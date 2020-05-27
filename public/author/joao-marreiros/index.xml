@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Marreiros | Research on Stone tool use</title>
+    <link>/author/joao-marreiros/</link>
+      <atom:link href="/author/joao-marreiros/index.xml" rel="self" type="application/rss+xml" />
+    <description>João Marreiros</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/joao-marreiros/avatar_hu015f44977e138aacf85e78b4c0a52d80_3642602_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>João Marreiros</title>
+      <link>/author/joao-marreiros/</link>
+    </image>
+    
+    <item>
+      <title>A versatile mechanized setup for controlled experiments in archeology</title>
+      <link>/publication/2020_calandra_star/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_calandra_star/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking Use-Wear Analysis and Experimentation as Applied to the Study of Past Hominin Tool Use</title>
+      <link>/publication/2020_marreiros_jpla/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_marreiros_jpla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlled experiments in lithic technology and function</title>
+      <link>/publication/2020_marreiros_aasc/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_marreiros_aasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back to the edge: relative coordinate system for use-wear analysis</title>
+      <link>/publication/2019_calandra_aasc/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_calandra_aasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of numerical aperture on quantitative use-wear studies and its implication on reproducibility</title>
+      <link>/publication/2019_calandra_nsr/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_calandra_nsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why should traceology learn from dental microwear, and vice-versa?</title>
+      <link>/publication/2019_calandra_jas/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_calandra_jas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

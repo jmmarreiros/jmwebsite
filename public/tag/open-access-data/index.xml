@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open access data | Research on Stone tool use</title>
+    <link>/tag/open-access-data/</link>
+      <atom:link href="/tag/open-access-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open access data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue3d6bcc15444d0d34fa050ebbc71bc97_1077441_512x512_fill_lanczos_center_2.png</url>
+      <title>Open access data</title>
+      <link>/tag/open-access-data/</link>
+    </image>
+    
+    <item>
+      <title>Rethinking Use-Wear Analysis and Experimentation as Applied to the Study of Past Hominin Tool Use</title>
+      <link>/publication/2020_marreiros_jpla/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_marreiros_jpla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of numerical aperture on quantitative use-wear studies and its implication on reproducibility</title>
+      <link>/publication/2019_calandra_nsr/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_calandra_nsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why should traceology learn from dental microwear, and vice-versa?</title>
+      <link>/publication/2019_calandra_jas/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_calandra_jas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
