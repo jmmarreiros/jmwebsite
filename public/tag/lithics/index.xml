@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lithics | Research on Stone tool use</title>
-    <link>/tag/lithics/</link>
-      <atom:link href="/tag/lithics/index.xml" rel="self" type="application/rss+xml" />
+    <title>Lithics | João Marreiros</title>
+    <link>/www.joaomarreiros.com/tag/lithics/</link>
+      <atom:link href="/www.joaomarreiros.com/tag/lithics/index.xml" rel="self" type="application/rss+xml" />
     <description>Lithics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue3d6bcc15444d0d34fa050ebbc71bc97_1077441_512x512_fill_lanczos_center_2.png</url>
+      <url>/www.joaomarreiros.com/images/icon_hue3d6bcc15444d0d34fa050ebbc71bc97_1077441_512x512_fill_lanczos_center_2.png</url>
       <title>Lithics</title>
-      <link>/tag/lithics/</link>
+      <link>/www.joaomarreiros.com/tag/lithics/</link>
     </image>
     
     <item>
       <title>Controlled experiments in lithic technology and function</title>
-      <link>/publication/2020_marreiros_aasc/</link>
+      <link>/www.joaomarreiros.com/publication/2020_marreiros_aasc/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_marreiros_aasc/</guid>
+      <guid>/www.joaomarreiros.com/publication/2020_marreiros_aasc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effect of numerical aperture on quantitative use-wear studies and its implication on reproducibility</title>
-      <link>/publication/2019_haws_jfa/</link>
+      <link>/www.joaomarreiros.com/publication/2019_haws_jfa/</link>
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_haws_jfa/</guid>
+      <guid>/www.joaomarreiros.com/publication/2019_haws_jfa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial Upper Palaeolithic Homo sapiens from Bacho Kiro Cave, Bulgaria</title>
-      <link>/publication/2020_hublin_nature/</link>
+      <link>/www.joaomarreiros.com/publication/2020_hublin_nature/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_hublin_nature/</guid>
+      <guid>/www.joaomarreiros.com/publication/2020_hublin_nature/</guid>
       <description></description>
     </item>
     
