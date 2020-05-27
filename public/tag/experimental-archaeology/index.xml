@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experimental Archaeology | João Marreiros</title>
+    <title>Experimental archaeology | João Marreiros</title>
     <link>/www.joaomarreiros.com/tag/experimental-archaeology/</link>
       <atom:link href="/www.joaomarreiros.com/tag/experimental-archaeology/index.xml" rel="self" type="application/rss+xml" />
-    <description>Experimental Archaeology</description>
+    <description>Experimental archaeology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/www.joaomarreiros.com/images/icon_hue3d6bcc15444d0d34fa050ebbc71bc97_1077441_512x512_fill_lanczos_center_2.png</url>
-      <title>Experimental Archaeology</title>
+      <title>Experimental archaeology</title>
       <link>/www.joaomarreiros.com/tag/experimental-archaeology/</link>
     </image>
     
@@ -42,6 +42,15 @@
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/www.joaomarreiros.com/publication/2019_calandra_aasc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Pleistocene stone tool use</title>
+      <link>/www.joaomarreiros.com/project/traceology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/www.joaomarreiros.com/project/traceology/</guid>
+      <description>&lt;p&gt;Under construction&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
