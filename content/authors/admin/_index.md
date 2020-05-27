@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Pleistocene stone tools, digital archaeology and experimental archaeology
+bio: My research interests include Pleistocene stone tools, traceology, digital archaeology and experimental archaeology
 
 interests:
 - Stone tools
@@ -81,4 +81,4 @@ user_groups:
 
 I’m an archaeologist, currently working as a Research Group Leader in the Laboratory for Traceology and Controlled Experiments (TraCEr) lab at MONREPOS, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM, in Neuwied, Germany (please find more info about the institute and lab here). I’m also an associated researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behaviour, University of Algarve (please find more info about ICarEHB, check here).
 
-Welcome to the website about my research on Pleistocene Stone tool use! The main aim of this independent webpage is to disseminate my research, share data and details about my projects in the field of Pleistocene archaeology, use-wear analysis and experiments.
+Welcome to the website about my research on Pleistocene Stone tool use! The main aim of this independent webpage is to disseminate my research, share data and details about my projects in the field of Pleistocene archaeology, traceology and experiments.
