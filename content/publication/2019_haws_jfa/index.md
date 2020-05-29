@@ -25,7 +25,7 @@ tags:
 - Survey
 featured: false
 
-title: "The effect of numerical aperture on quantitative use-wear studies and its implication on reproducibility"
+title: "Late Pleistocene Landscape and Settlement Dynamics of Portuguese Estremadura"
 
 url_code: ""
 url_dataset: ""
