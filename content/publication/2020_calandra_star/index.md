@@ -19,7 +19,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2020-05-12T00:00:00Z"
-summary: "test test test"
+summary: "This paper aimed to discuss the contribution of mechanical apparatus on archaeological experimentation. In this paper this discussion is illustrated by the presentation of a versatile linear __robot__ used in our experimental workshop."
 tags:
 - Experimental archaeology
 - Traceology

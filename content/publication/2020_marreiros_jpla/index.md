@@ -22,7 +22,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2020-05-04T00:00:00Z"
-summary:
+summary:"In this paper we discuss major topic related to use-wear analysis and the importance of archaeological experimentation. As needed, we review the state-of-the-art on use-wear methods and experiments and hightlight the need of methodological standards and protocols. On of the most importance aspects is also the holistic perspective that researchers should have when infering on stone tool use."
 tags:
 - Traceology
 - Open access data
