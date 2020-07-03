@@ -16,7 +16,7 @@ projects: []
 publication: "*Nature*. 110 (2019)"
 publication_short: ""
 publication_types:
-- 1
+- 2
 publishDate: "2020-03-11T00:00:00Z"
 summary:
 tags:

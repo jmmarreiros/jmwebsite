@@ -17,7 +17,7 @@ projects: []
 publication: "*Archaeological and Anthropological Sciences*, 12:110 (2020)"
 publication_short: ""
 publication_types:
-- 1
+- 2
 publishDate: "2020-04-01T00:00:00Z"
 summary:
 tags:

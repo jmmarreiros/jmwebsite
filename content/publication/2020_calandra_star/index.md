@@ -17,9 +17,9 @@ projects: []
 publication: "*STAR: Science & Technology of Archaeological Research* (2020)"
 publication_short: ""
 publication_types:
-- 1
+- 2
 publishDate: "2020-05-12T00:00:00Z"
-summary:
+summary: "test test test"
 tags:
 - Experimental archaeology
 - Traceology

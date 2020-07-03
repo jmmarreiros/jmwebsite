@@ -22,7 +22,7 @@ projects: []
 publication: "*Nature, Scientific Reports*, 9 (2019)"
 publication_short: ""
 publication_types:
-- 1
+- 2
 publishDate: "2019-04-19T00:00:00Z"
 summary:
 tags:

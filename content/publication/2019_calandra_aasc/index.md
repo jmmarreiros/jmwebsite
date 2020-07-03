@@ -24,7 +24,7 @@ projects: []
 publication: "*Archaeological and Anthropological Sciences*, 11 (2019)"
 publication_short: ""
 publication_types:
-- 1
+- 2
 publishDate: "2019-11-11T00:00:00Z"
 summary:
 tags:
