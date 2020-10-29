@@ -81,6 +81,8 @@ user_groups:
 - Visitors
 ---
 
-I’m an archaeologist, currently working as a Research Group Leader in the Laboratory for Traceology and Controlled Experiments (TraCEr) lab at MONREPOS, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM, in Neuwied, Germany (please find more info about the institute and lab here). I’m also an associated researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behaviour, University of Algarve (please find more info about ICarEHB, check here).
+I’m an archaeologist, currently working as a Research Group Leader in the Laboratory for Traceology and Controlled Experiments (TraCEr) lab at MONREPOS, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/), in Neuwied, Germany (please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?). I’m also an associated researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behaviour, University of Algarve (please find more info about ICarEHB, check http://www.icarehb.com/).
 
-Welcome to the website about my research on Pleistocene Stone tool use! The main aim of this independent webpage is to disseminate my research, share data and details about my projects in the field of Pleistocene archaeology, traceology and experiments.
+Welcome here, this website is about my research on Pleistocene Stone tool use! The main aim of this independent webpage is to disseminate my research, share data and details about my projects in the field of Pleistocene archaeology, traceology and experiments. Feel free to contact me if you have any ideas and/or inputs! They all very welcome!
+
+I'll update this site with my new projects, paper and other stuff. You can also find me on Twitter.
