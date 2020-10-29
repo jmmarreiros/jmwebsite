@@ -85,4 +85,4 @@ I’m an archaeologist, currently working as a Research Group Leader in the Labo
 
 Welcome here, this website is about my research on Pleistocene Stone tool use! The main aim of this independent webpage is to disseminate my research, share data and details about my projects in the field of Pleistocene archaeology, traceology and experiments. Feel free to contact me if you have any ideas and/or inputs! They all very welcome!
 
-I'll update this site with my new projects, paper and other stuff. You can also find me on Twitter.
+I'll update this site with my new projects, papers and other stuff. You can also find me on Twitter.
