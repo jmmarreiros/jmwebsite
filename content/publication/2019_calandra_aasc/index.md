@@ -26,7 +26,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2019-11-11T00:00:00Z"
-summary: "Research on stone tool use has shown the importance of sequential experimentation. To evaluate the development of use-wear traces during tool use, the documentation and analysis of the same location on the tools' surface is crucial. In this paper we present a new methods based on a local coordinate system on the experimental sample."
+summary: Research on stone tool use has shown the importance of sequential experimentation. To evaluate the development of use-wear traces during tool use, the documentation and analysis of the same location on the tools' surface is crucial. In this paper we present a new methods based on a local coordinate system on the experimental sample.
 tags:
 - Robotics
 - Experimental Archaeology
