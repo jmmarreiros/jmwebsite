@@ -19,7 +19,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2020-04-01T00:00:00Z"
-summary:"This is an introductory paper to a Special issue based on a Symposium organized at the SAA2017 in Vancouver. The Symposium aimed to bring together reseachers working different aspects of lithic technology and function, which use controlled experimentation to address their questions."
+summary: "This is an introductory paper to a Special issue based on a Symposium organized at the SAA2017 in Vancouver. The Symposium aimed to bring together reseachers working different aspects of lithic technology and function, which use controlled experimentation to address their questions."
 tags:
 - Experimental archaeology
 - Controlled Experiments
