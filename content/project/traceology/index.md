@@ -7,10 +7,11 @@ image:
 summary: "Soon available."
 tags:
 - Traceology
+- Tool use and function
 - Experimental archaeology
 - Open access data
 
-title: Pleistocene stone tool use
+title: Traceology and Controlled Experiments
 url_code: ""
 url_pdf: ""
 url_slides: ""

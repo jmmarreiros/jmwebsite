@@ -6,11 +6,12 @@ image:
   focal_point: Smart
 summary: "Soon available."
 tags:
+- Initial Upper Paleolithic
+- Stone tools
 - Traceology
-- Experimental archaeology
-- Open access data
+- Tecnho-typology
 
-title: Pleistocene stone tool use
+title: Stone tool production and use during the IUP
 url_code: ""
 url_pdf: ""
 url_slides: ""

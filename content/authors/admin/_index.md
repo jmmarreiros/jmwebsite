@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include Pleistocene stone tools, traceology, digital archaeology and experimental archaeology
 
 interests:
-- Stone tools
+- Stone tool's production and use
+- Raw material mechanical properties
 - Experimental archaeology
 - Robotics in archaeology
 
@@ -63,6 +64,7 @@ social:
 - icon: plubons
   icon_pack: ai
   link: https://publons.com/a/1534012/
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
