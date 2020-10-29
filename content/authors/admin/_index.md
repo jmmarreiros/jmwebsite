@@ -22,7 +22,7 @@ bio: My research interests include Pleistocene stone tools, traceology, digital 
 
 interests:
 - Stone tool's production and use
-- Raw material mechanical properties
+- Raw material properties
 - Experimental archaeology
 - Robotics in archaeology
 
