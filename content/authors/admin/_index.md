@@ -16,15 +16,17 @@ role: Junior Research Group Leader
 organizations:
 - name: TraCEr, MONREPOS, RGZM
   url: ""
+- name: ICArEHB, UAlg
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Pleistocene stone tools, traceology, digital archaeology and experimental archaeology
 
 interests:
-- Stone tool's production and use
-- Raw material properties
+- Stone tool production, design and use
+- Lihic raw material properties
 - Experimental archaeology
-- Robotics in archaeology
+- Robots in archaeology
 
 education:
   courses:
