@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Research Group Leader
+role:
 
 # Organizations/Affiliations
 organizations:
@@ -19,6 +19,9 @@ organizations:
 - name: ICArEHB, UAlg
   url: ""
 
+- name: Institute for Prehistoric and Protohistoric Archaeology, JGU, Mainz
+  url: ""
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Pleistocene stone tools, traceology, digital archaeology and experimental archaeology
 
