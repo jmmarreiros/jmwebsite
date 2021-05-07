@@ -20,7 +20,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2019-03-11T00:00:00Z"
-summary: Interdisciplinarity leads to fundamental knowledge and methods combination between disciplines. Having this in mind, in this paper we track all major theoretical and methodological developments on two closed-related disciplines, dental microwear and use-wear. The main goal was to discuss how the two disciplines improved and at the same time, how much still need to be done. While methods seems to that have been established in one discipline, they tend to be marginally applied in other.
+summary: Interdisciplinarity leads to fundamental knowledge and methods combination between disciplines. Having this in mind, in this paper we track all major theoretical and methodological developments on two closed-related disciplines, dental microwear and use-wear. The main goal here was to discuss how the two disciplines improved and, at the same time, how much still need to be done in order to combine both methodologies and approaches. While methods seems to that have been established in one discipline, they tend to be marginally applied in the other.
 tags:
 - Traceology
 - Open access data

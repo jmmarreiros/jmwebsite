@@ -18,7 +18,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2020-09-23T00:00:00Z"
-summary: In this study we aimed to evaluate the impact of Quina Retouch on the maintenance of the edge angle on the Middle Paleolithic scrapers. By addressing this questions we also discuss pas human technological strategies and techniques to improve stone tool function and durability over time.
+summary: In this study we aimed to evaluate the impact of Quina Retouch on the maintenance of the edge angle on the Middle Paleolithic scrapers. By addressing this question we also discussed past human technological strategies and techniques to improve stone tool function and durability over time.
 tags:
 - Stone tool retouch
 - Quina Retouch

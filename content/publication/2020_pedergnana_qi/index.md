@@ -20,7 +20,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2020-07-23T00:00:00Z"
-summary: This paper goal was to test the influence of different cleaning procedures on micro surface texture of stone tools. With this paper we also aimed to stress-out the need of adopting cleaning methods that do not affect artifacts during and after excavation.
+summary: The main goal of this study was to test the influence of different cleaning procedures applied on micro surface texture of stone tools. With this paper, we also aimed to stress-out the need of adopting cleaning methods that do not affect the microscopi analysis of artifacts surface.
 tags:
 - Traceology
 - Experiments
