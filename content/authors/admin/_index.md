@@ -18,7 +18,7 @@ organizations:
   url: ""
 - name: ICArEHB, UAlg
   url: ""
-- name: Institute for Pre and Protohistoric Archaeology, JGU, Mainz
+- name: Institute for Pre and Proto-historic Archaeology, JGU, Mainz
   url: ""
   
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ interests:
 - Paleolithic archaeology
 - Lihic raw material properties
 - Experimental archaeology
-- Robots in archaeology
+- Robots in experimental archaeology
 
 education:
   courses:
@@ -86,8 +86,12 @@ user_groups:
 - Visitors
 ---
 
-I’m an archaeologist, currently working as a Research Group Leader in the Laboratory for Traceology and Controlled Experiments (TraCEr) lab at MONREPOS, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/), in Neuwied, Germany (please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?). I’m also an associated researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behaviour, University of Algarve (please find more info about ICarEHB at http://www.icarehb.com/).
+Hi there, Welcome. I’m an archaeologist, currently working as a Research Group Leader in the Laboratory for Traceology and Controlled Experiments (TraCEr) lab at MONREPOS, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/), in Neuwied, Germany (please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?). 
 
-Welcome, this website is about my research on Pleistocene Stone tool use! The main aim of this independent webpage is to disseminate my research, share data and details about my projects in the field of Pleistocene archaeology, traceology and experiments. Feel free to contact me if you have any ideas and/or inputs! They all very welcome!
+I’m also an associated researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behaviour, University of Algarve (please find more info about ICarEHB at http://www.icarehb.com/).
 
-I'll update this site with my new projects, papers and other stuff. You can also find me on Twitter.
+This website is about my research on Pleistocene Stone tool design and use! The main aim of this personal and independent webpage is to disseminate my research, share data and details about my projects in the field of Pleistocene archaeology, traceology and experiments. Feel free to contact me if you have any ideas and/or inputs! They all very welcome!
+
+I'll update this site with my new projects, papers and other stuff, but you can also find me on Twitter and ResearchGate.
+
+Also feel free to have a look at agenda of the labs I'm working at the moment, and let me know if you would like to chat about any research idea.
