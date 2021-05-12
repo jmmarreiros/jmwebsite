@@ -1,5 +1,5 @@
 ---
-title: Funding
+title: Funding sources
 
 # View.
 #   1 = List
