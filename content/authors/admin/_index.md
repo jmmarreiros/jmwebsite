@@ -94,4 +94,3 @@ This website is about my research on Pleistocene Stone tool design and use! The 
 
 I'll update this site with my new projects, papers and other stuff, but you can also find me on Twitter and ResearchGate.
 
-Also feel free to have a look at agenda of the labs I'm working at the moment, and let me know if you would like to chat about any research idea.
