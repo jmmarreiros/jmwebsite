@@ -29,6 +29,7 @@ interests:
 - Paleolithic archaeology
 - Lihic raw material properties
 - Experimental archaeology
+- Repreducible research and FAIR principles
 - Robots in experimental archaeology
 
 education:
@@ -93,5 +94,5 @@ I’m also an associated researcher at the ICArEHB, Interdisciplinary Center for
 
 This website is about my research on Pleistocene Stone tool design and use! The main aim of this personal and independent webpage is to disseminate my research, share data and details about my projects in the field of Pleistocene archaeology, traceology and experiments. Feel free to contact me if you have any ideas and/or inputs! They all very welcome!
 
-I'll be regularly updating this site with news on my projects, papers and other stuff, but you can also find me on Twitter and ResearchGate.
+I'll be regularly updating this site with news on my projects, papers and other stuff, but you can also find me on Twitter, GitHub and ResearchGate.
 
