@@ -6,7 +6,7 @@ date: "2020-07-03T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'welcome'
+  caption: 'Funding'
   focal_point: ""
   placement: 2
   preview_only: false
