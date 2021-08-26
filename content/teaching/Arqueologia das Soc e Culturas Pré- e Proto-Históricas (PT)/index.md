@@ -20,8 +20,12 @@ title: 'Arqueologia das Soc e Culturas Pré- e Proto-Históricas (PT)'
 
 Bibliografia em formato digital (solicitar a password de acesso na aula)
 
+___
+
 Manuais de consulta obrigatória:
+
 Bibliogrfia complementar (artigos científicos e capítulos de livros):
+
 Material auxiliar usado em aula (e.g. Powerpoint): 
 
 
