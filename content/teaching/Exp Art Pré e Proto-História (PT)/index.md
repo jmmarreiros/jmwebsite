@@ -15,6 +15,13 @@ projects: []
 subtitle: ''
 summary: ""
 tags:
-title: 'available etc'
+title: 'Expressõs artisticas Pré- e Proto-História (PT)'
 ---
+
+Bibliografia em formato digital (solicitar a password de acesso na aula)
+
+Manuais de consulta obrigatória:
+Bibliogrfia complementar (artigos científicos e capítulos de livros):
+Material auxiliar usado em aula (e.g. Powerpoint): 
+
 

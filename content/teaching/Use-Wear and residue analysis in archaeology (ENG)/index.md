@@ -15,6 +15,11 @@ projects: []
 subtitle: ''
 summary: ""
 tags:
-title: 'available etc'
+title: 'Use-Wear and Residue analysis in Archaeology (ENG)'
 ---
 
+Bibliography in digital format (request password during class)
+
+Handbooks (mandatory reading):
+Supplementary bibligraphy (papers and book chapters):
+Other material used during class (e.g. Powerpoint): 

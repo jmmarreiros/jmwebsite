@@ -15,7 +15,7 @@ projects: []
 subtitle: ''
 summary: ""
 tags:
-title: 'Expressões artísticas Pré- e Proto-Históricas (PT)'
+title: 'Arqueologia, Teoria e Método (PT)'
 ---
 
 Bibliografia em formato digital (solicitar a password de acesso na aula)

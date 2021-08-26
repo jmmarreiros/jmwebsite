@@ -15,11 +15,11 @@ projects: []
 subtitle: ''
 summary: ""
 tags:
-title: 'Use-wear and residue analysis in archaeology (ENG)'
+title: 'Prospecção e Escavação Arqueológica (PT)'
 ---
 
-Bibliography in digital format (request password during class)
+Bibliografia em formato digital (solicitar a password de acesso na aula)
 
-Handbooks (mandatory reading):
-Supplementary bibligraphy (papers and book chapters):
-Other material used during class (e.g. Powerpoint): 
+Manuais de consulta obrigatória:
+Bibliogrfia complementar (artigos científicos e capítulos de livros):
+Material auxiliar usado em aula (e.g. Powerpoint): 

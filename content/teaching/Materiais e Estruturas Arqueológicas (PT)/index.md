@@ -15,7 +15,7 @@ projects: []
 subtitle: ''
 summary: ""
 tags:
-title: 'Património Arqueológico (PT)'
+title: 'Materiais e Estruturas Arqueológicas (PT)'
 ---
 
 Bibliografia em formato digital (solicitar a password de acesso na aula)
