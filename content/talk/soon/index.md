@@ -15,6 +15,6 @@ projects: []
 subtitle: ''
 summary: ""
 tags:
-title: 'available etc'
+title: 'available soon'
 ---
 
