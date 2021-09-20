@@ -26,6 +26,7 @@ ___
 Manuais de consulta obrigatória:
 
 Bibliogrfia complementar (artigos científicos e capítulos de livros):
+https://www.dropbox.com/sh/qu63bobt4yjtgfm/AACH3Hfwbkt6Q3kbRsozTP0Ka?dl=0
 
 Material auxiliar usado em aula (e.g. Powerpoint): 
  
