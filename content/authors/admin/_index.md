@@ -91,7 +91,7 @@ user_groups:
 Hi there, welcome! 
 I’m an archaeologist, currently working at the Laboratory for Traceology and Controlled Experiments (TraCEr) lab at MONREPOS, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/), in Neuwied, Germany (please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?). 
 
-I’m also an Assistant Professor at the Department of History at Uiversity of Évora (https://www.uevora.pt), and Associated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behaviour, University of Algarve (http://www.icarehb.com/).
+I’m also an Assistant Professor at the Department of History at University of Évora (https://www.uevora.pt), and Associated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behaviour, University of Algarve (http://www.icarehb.com/).
 
 This website is about my research on Pleistocene Archaeology! The main aim of this personal and independent webpage is to disseminate my research, share data and details about my projects in the field of lithic technology, traceology and experiments. Feel free to contact me if you have any ideas and/or inputs! They're all very welcome!
 
