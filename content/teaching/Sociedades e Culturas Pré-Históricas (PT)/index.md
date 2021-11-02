@@ -22,9 +22,6 @@ Bibliografia em formato digital (solicitar a password de acesso na aula)
 
 ___
 
-Manuais de consulta obrigatória:
+Manuais de consulta obrigatória: https://www.dropbox.com/sh/lmahhfo55q8ys65/AAAWe3J-90xR7y9dt1XTWPeOa?dl=0
 
-Bibliogrfia complementar (artigos científicos e capítulos de livros):
-
-Material auxiliar usado em aula (e.g. Powerpoint): 
 
