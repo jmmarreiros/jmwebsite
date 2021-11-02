@@ -20,8 +20,6 @@ organizations:
   url: "https://www.uevora.pt/pessoas?id=178465"
 - name: ICArEHB, Uni. Algarve
   url: "http://www.icarehb.com/marreiros/"
-- name: Institute for Pre and Proto-historic Archaeology, JGU, Mainz
-  url: ""
   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Pleistocene stone tools, traceology, digital archaeology and experimental archaeology
