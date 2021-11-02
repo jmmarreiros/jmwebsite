@@ -26,5 +26,4 @@ Handbooks (mandatory reading):
 https://www.dropbox.com/sh/iqa37kl6hllwzkj/AACNVtzjIBxuGO6w3eavjLyYa?dl=0
 
 Supplementary bibligraphy (papers and book chapters):
-
-Other material used during class (e.g. Powerpoint): 
+https://www.dropbox.com/sh/k7pzsyrdloqpvel/AABsXPhAx4grV-7aaCyki7ATa?dl=0
