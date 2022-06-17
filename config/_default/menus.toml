@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "New posts"
+  name = "Research news"
   url = "#posts"
   weight = 20
 
@@ -19,18 +19,23 @@
   weight = 30
 
 [[main]]
-  name = "Most recent publications"
+  name = "Recent publications"
   url = "#publications"
   weight = 40
 
 [[main]]
-  name = "Recent talks and posters"
+  name = "Recent talks"
   url = "#talks"
   weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
+  weight = 50
+
+[[main]]
+  name = "Opportunities"
+  url = "#opportunities"
   weight = 60
 
 [[main]]

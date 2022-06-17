@@ -26,15 +26,21 @@ bio: My research interests include Pleistocene stone tools, traceology, digital 
 
 interests:
 - Stone tool production, design and use
+- Past hominin technological innovations
 - Paleolithic archaeology
-- Lihic raw material
-- Repreducible research and FAIR principles
+- Reproducible research and FAIR principles in archaeological research
 - Robots in experimental archaeology
 
 education:
   courses:
-  - course: PhD in Archaeology
-    institution: Universidade do Algarve
+  - course: Research Group Leader
+    institution: TraCEr, MONREPOS-RGZM
+    year: since 2017
+  - course: Postdoctoral position
+    institution: ICArEHB & CSIC-IMF
+    year: 2014-2016
+  - course: PhD in Prehistoric Archaeology
+    institution: ICArEHB (Universidade do Algarve)
     year: 2013
   - course: MA in Archaeology
     institution: Universidade do Algarve
@@ -50,7 +56,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:marreiros@rgzm.de".
+  link: '#contact'  # For a direct email link, use "mailto:joao.marreiros@rgzm.de".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jmmarreiros
@@ -87,11 +93,17 @@ user_groups:
 ---
 
 Hi there, welcome! 
-I’m an archaeologist, currently working at the Laboratory for Traceology and Controlled Experiments (TraCEr) lab at MONREPOS, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/), in Neuwied, Germany (please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?). 
+I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS**, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/), in Neuwied, Germany (please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?). 
 
-I’m also an Assistant Professor at the Department of History at University of Évora (https://www.uevora.pt), and Associated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behaviour, University of Algarve (http://www.icarehb.com/).
+I’m also an Assistant Professor at the Department of History at University of Évora (https://www.uevora.pt), and Associated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behavior, University of Algarve (http://www.icarehb.com/).
 
-This website is about my research on Pleistocene Archaeology! The main aim of this personal and independent webpage is to disseminate my research, share data and details about my projects in the field of lithic technology, traceology and experiments. Feel free to contact me if you have any ideas and/or inputs! They're all very welcome!
+I’m interested on unraveling **early hominin technological evolution**, with special fascination on understanding how stone tools were designed, produced, and used in the past. My main interests are focused on the study of why, how, and what for humans transform their technological system and what can those changes tell us about past human behavioral dynamics. 
+
+What I also found intriguing is how technological choices made in the past guided us to what we are today. So, to investigate this topic, I focus on three main lines of study: 1) understanding **when** and **where** the design and production of stone tools change over time, 2) the association between tool design (different forms) and **tool used**, and ultimately, 3) **why humans changed** the way they design and used their tools, and what does this tell us about changes on the evolution of human behavior. 
+
+To address these questions my methodological approach combines different discipline such as, techno-typological analysis, raw material characterization and use-wear analysis (i.e. traceology) and experimental replication.
+
+This website is about my research on Pleistocene Archaeology! The main aim of this personal and independent webpage is to disseminate my research, share data and details about my projects in the lab and field. Feel free to contact me if you have any ideas and/or inputs! They're all very welcome!
 
 I'll be regularly updating this site with news on my projects, papers and other stuff, but you can also find me on Twitter, GitHub and ResearchGate.
 
