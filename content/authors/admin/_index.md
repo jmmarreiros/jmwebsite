@@ -92,7 +92,7 @@ user_groups:
 - Visitors
 ---
 
-**Hi there, welcome!** 
+**Welcome!** 
 I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS**, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/) in Neuwied, Germany. Please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?. 
 
 I’m also an Assistant Professor at the Department of History at University of Évora (https://www.uevora.pt), and Associated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behavior, University of Algarve (http://www.icarehb.com/).
