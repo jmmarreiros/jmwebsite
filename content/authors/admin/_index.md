@@ -92,8 +92,8 @@ user_groups:
 - Visitors
 ---
 
-Hi there, welcome! 
-I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS**, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/), in Neuwied, Germany (please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?). 
+**Hi there, welcome!** 
+I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS**, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/) in Neuwied, Germany. Please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?. 
 
 I’m also an Assistant Professor at the Department of History at University of Évora (https://www.uevora.pt), and Associated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behavior, University of Algarve (http://www.icarehb.com/).
 
@@ -103,7 +103,7 @@ What I also found intriguing is how technological choices made in the past guide
 
 To address these questions my methodological approach combines different discipline such as, techno-typological analysis, raw material characterization and use-wear analysis (i.e. traceology) and experimental replication.
 
-This website is about my research on Pleistocene Archaeology! The main aim of this personal and independent webpage is to disseminate my research, share data and details about my projects in the lab and field. Feel free to contact me if you have any ideas and/or inputs! They're all very welcome!
+This website is about my research on Pleistocene Archaeology! The main aim of this personal and independent webpage is to *disseminate my research, share data and details about my projects in the lab and field*. Feel free to contact me if you have any ideas and/or inputs! They're all very welcome!
 
-I'll be regularly updating this site with news on my projects, papers and other stuff, but you can also find me on Twitter, GitHub and ResearchGate.
+I'll be regularly updating this site with news on my projects, papers and other stuff, but you can also find me on **Twitter**, **GitHub** and **ResearchGate**.
 

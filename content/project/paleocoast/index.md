@@ -6,13 +6,11 @@ image:
   focal_point: Smart
 summary: "Soon available."
 tags:
-- Traceology
-- Tool use and function
-- Experimental archaeology
-- Robotic archaeology
-- Open access data
+- Late Pleistocene archaeology
+- Excavation and survey
+- Paleoenvironment / Paleoecology
 
-title: Traceology and Controlled Experiments (within TraCEr/MONREPOS)
+title: PaleoCoast - Paleo human coastal adaptations in southwestern Iberia.
 url_code: ""
 url_pdf: ""
 url_slides: ""
