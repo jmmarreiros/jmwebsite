@@ -8,7 +8,7 @@ summary: "Soon available!"
 tags:
 - 
 
-title: 
+title: Student internships
 url_code: ""
 url_pdf: ""
 url_slides: ""
