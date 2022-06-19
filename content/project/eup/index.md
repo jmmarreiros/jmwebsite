@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: Smart
-summary: "Soon available."
+summary: "Soon available!"
 tags:
 - Late Middle Palaeolothic
 - Initial Upper Palaeolithic
@@ -13,7 +13,7 @@ tags:
 - Stone tool design and use
 - Experimental archaeology
 
-title: Stone tool innovations among late Neanadethals and early Anatomically Modern Humans
+title: Stone tool innovations among late Neanderthals and early Anatomically Modern Humans
 url_code: ""
 url_pdf: ""
 url_slides: ""
