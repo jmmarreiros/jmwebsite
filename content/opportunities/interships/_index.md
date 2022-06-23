@@ -2,9 +2,9 @@
 date: "20120-06-01T00:00:00Z"
 external_link: ""
 image:
-  caption: ""
+  caption: "students"
   focal_point: Smart
-summary: "Soon available!"
+summary: ""
 tags:
 - 
 
@@ -14,5 +14,3 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-**Under construction...**
