@@ -12,7 +12,7 @@ tags:
 - Robotic archaeology
 - Open access data
 
-title: Traceology and Controlled Experiments (TraCEr/MONREPOS)
+title: Traceology and Controlled Experiments (TraCEr at MONREPOS-RGZM)
 url_code: ""
 url_pdf: ""
 url_slides: ""
