@@ -26,11 +26,6 @@
 [[main]]
   name = "Recent talks"
   url = "#talks"
-  weight = 40
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
   weight = 50
 
 [[main]]
@@ -47,6 +42,11 @@
   name = "Teaching"
   url = "#teaching"
   weight = 80
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
