@@ -1,5 +1,5 @@
 +++
-# Dunding section created with the Pages widget.
+# A opportunities section created with the Pages widget.
 # This section displays recent talks from `content/opportunities/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
