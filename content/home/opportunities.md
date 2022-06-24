@@ -1,11 +1,11 @@
 +++
-# A opportunities section created with the Pages widget.
+# Dunding section created with the Pages widget.
 # This section displays recent talks from `content/opport/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+weight = 300  # Order that this section will appear.
 
 title = "Opportunities"
 subtitle = ""
