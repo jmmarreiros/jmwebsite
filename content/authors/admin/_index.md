@@ -1,44 +1,36 @@
 ---
-# Display name
-title: João Marreiros
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role:
-
-# Organizations/Affiliations
+title: "João Marreiros"
+authors: admin
+superuser: yes
+role: Research Group Leader
 organizations:
-- name: TraCEr, MONREPOS-RGZM
-  url: "https://monrepos.rgzm.de"
-- name: Lab. de Arqueologia, Uni. Évora
-  url: "https://www.uevora.pt/pessoas?id=178465"
+- name: "TraCEr, MONREPOS-Leibniz Zentrum für Archaeologie"
+  url: "https://www.leiza.de/ueber-uns/team/person/joao-manuel-figueiras-marreiros"
 - name: ICArEHB, Uni. Algarve
-  url: "http://www.icarehb.com/marreiros/"
-  
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Pleistocene stone tools, traceology, digital archaeology and experimental archaeology
-
+  url: http://www.icarehb.com/jmarreiros/
+bio: My research interests include Pleistocene stone tools, traceology, digital archaeology
+  and experimental archaeology
 interests:
 - Stone tool production, design and use
 - Past hominin technological innovations
 - Paleolithic archaeology
 - Reproducible research and FAIR principles in archaeological research
 - Robots in experimental archaeology
-
+Positions:
+- course: Research Group Leader
+  institution: "TraCEr, MONREPOS-RGZM"
+  year: since 2017
+- course: Adjunct Lecture
+  institution: "Johannes Gutenberg-Universität Mainz, Mainz"
+  year: since 2017
+- course: Assistant Professor
+  institution: Departamento de História. Universidade de Évora
+  year: "2020-2022"
+- course: Postdoctoral position
+  institution: "ICArEHB & CSIC-IMF"
+  year: "2014-2016"
 education:
   courses:
-  - course: Research Group Leader
-    institution: TraCEr, MONREPOS-RGZM
-    year: since 2017
-  - course: Postdoctoral position
-    institution: ICArEHB & CSIC-IMF
-    year: 2014-2016
   - course: PhD in Prehistoric Archaeology
     institution: ICArEHB (Universidade do Algarve)
     year: 2013
@@ -48,21 +40,16 @@ education:
   - course: BA in Cultural Heritage
     institution: Universidade do Algarve
     year: 2007
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:joao.marreiros@rgzm.de".
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jmmarreiros
-- icon: google-scholar
+- icon: "google-scholar"
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=eR0P8TYAAAAJ&hl=pt-PT&authuser=1
+  link: "https://scholar.google.com/citations?user=eR0P8TYAAAAJ&hl=pt-PT&authuser=1"
 - icon: github
   icon_pack: fab
   link: https://github.com/jmmarreiros
@@ -71,29 +58,18 @@ social:
   link: https://www.researchgate.net/profile/Joao_Marreiros2
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-3399-8765
+  link: "https://orcid.org/0000-0002-3399-8765"
 - icon: plubons
   icon_pack: ai
   link: https://publons.com/a/1534012/
-  
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+email: ''
 user_groups:
 - Researchers
 - Visitors
 ---
 
 **Welcome!** 
-I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS**, Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM (https://web.rgzm.de/) in Neuwied, Germany. Please find more info about the institute and lab here https://monrepos.rgzm.de/en/tracer/?. 
+I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS**, Archaeological Research Centre and Museum for Human Behavioural Evolution, LEIZA (https://www.leiza.de/) in Neuwied, Germany. 
 
 I’m also an Associated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behavior, University of Algarve (http://www.icarehb.com/).
 
