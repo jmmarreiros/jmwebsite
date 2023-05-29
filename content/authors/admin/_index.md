@@ -4,7 +4,9 @@ authors: admin
 superuser: yes
 role: Research Group Leader
 organizations:
-- name: "TraCEr, MONREPOS-Leibniz Zentrum für Archaeologie"
+- name: "Laboratory for Traceology and Controlled Experiments"
+  url: "https://www.tracermonrepos-blog.com"
+- name: "MONREPOS-Leibniz Zentrum für Archaeologie"
   url: "https://www.leiza.de/ueber-uns/team/person/joao-manuel-figueiras-marreiros"
 - name: ICArEHB, Uni. Algarve
   url: http://www.icarehb.com/jmarreiros/
