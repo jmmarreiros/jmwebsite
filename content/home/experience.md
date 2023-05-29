@@ -66,14 +66,6 @@ date_format = "Jan 2006"
   date_start = "2014-01-01"
   date_end = "2016-12-31"
   description = """
+
   
-  """
- [[experience]]
-  title = "PhD candidate"
-  company = "ICArEHB, UAlg"
-  company_url = ""
-  location = "Faro, Portugal"
-  date_start = "2010-01-01"
-  date_end = "2013-12-31"
-  description = """
 +++
