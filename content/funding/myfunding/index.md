@@ -13,17 +13,19 @@ image:
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
 subtitle: ''
-summary: "I would like to express my deepest gratitude to all different institutions, foundations and societies that have been supporting and funding my research over the last years. These are:
+summary: "I would like to express my deepest gratitude to all different institutions, foundations and societies that have been supporting and funding my lab and field research over the last years. These are:
 
-- Fundação para a Ciência e Tecnologia (https://www.fct.pt/)
+- Fundação para a Ciência e Tecnologia (www.fct.pt)
 
-- Interdisciplinary Center for Archaeology and Evolution of Human Behaviour (https://www.icarehb.com/)
+- Interdisciplinary Center for Archaeology and Evolution of Human Behaviour (www.icarehb.com)
 
-- MONREPOS. Römisch-Germanisches Zentralmuseum, Forschungsinstitut für Archäologie
+- MONREPOS. Römisch-Germanisches Zentralmuseum, Forschungsinstitut für Archäologie (monrepos.rgzm.de)
 
-- Leibniz Gemeinschaft (https://www.leibniz-gemeinschaft.de/)
+- Leibniz Zentrum für Archaeologie, LEIZA (www.leiza.de)
 
-- Archaeological association of the Algarve (http://arquealgarve.weebly.com/)"
+- Leibniz Gemeinschaft (www.leibniz-gemeinschaft.de)
+
+- Archaeological association of the Algarve (arquealgarve.weebly.com)"
 tags:
 title: 'Acknowledgments'
 ---
