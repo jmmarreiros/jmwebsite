@@ -4,7 +4,7 @@ authors: admin
 superuser: yes
 role: Research Group Leader
 organizations:
-- name: "Laboratory for Traceology and Controlled Experiments"
+- name: "TraCEr - Laboratory for Traceology and Controlled Experiments"
   url: "https://www.tracermonrepos-blog.com"
 - name: "MONREPOS-Leibniz Zentrum für Archaeologie"
   url: "https://www.leiza.de/ueber-uns/team/person/joao-manuel-figueiras-marreiros"
@@ -58,13 +58,10 @@ user_groups:
 ---
 
 **Welcome!** 
-I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS**, Archaeological Research Centre and Museum for Human Behavioural Evolution, LEIZA (https://www.leiza.de/) in Neuwied, Germany. 
-
-I’m also an Associated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behavior, University of Algarve (http://www.icarehb.com/).
-
+I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS**, Archaeological Research Centre and Museum for Human Behavioural Evolution, LEIZA (https://www.leiza.de/) in Neuwied, Germany. I’m also an Associated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behavior, University of Algarve (http://www.icarehb.com/). 
 I’m interested on unraveling **early hominin technological evolution**, with special fascination on understanding how stone tools were designed, produced, and used in the past. My main interests are focused on the study of why, how, and what for humans transform their technological system and what can those changes tell us about past human behavioral dynamics. 
 
-I found intriguing is how technological choices made in the past guided us to what we are today. So, to investigate this topic, I focus on three main lines of study: 1) understanding **when** and **where** the design and production of stone tools change over time, 2) the association between tool design (different forms) and **tool used**, and ultimately, 3) **why humans changed** the way they design and used their tools, and what does this tell us about changes on the evolution of human behavior. 
+I found intriguing how technological choices made in the past guided us to what we are today. So, to investigate this topic, I focus on three main lines of study: 1) understanding **when** and **where** the design and production of stone tools change over time (artefact analysis and field work), 2) the association between tool design (different forms) and **tool used**, and ultimately, 3) **why humans changed** the way they design and used their tools, and what does this tell us about changes on the evolution of human behavior (mainly via lab experimentation). 
 
 To address these questions my methodological approach combines different discipline such as, techno-typological analysis, raw material characterization and use-wear analysis (i.e. traceology) and experimental replication.
 
