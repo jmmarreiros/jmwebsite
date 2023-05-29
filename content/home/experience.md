@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   date_end = "2017-12-31"
   description = """ 
   
- """
+  """
  [[experience]]
   title = "Postodoctoral fellow"
   company = "ICArEHB, UAlg & IMF-CSCI"
@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   date_end = "2016-12-31"
   description = ""
   
-"""
+ """
  [[experience]]
   title = "PhD candidate"
   company = "ICArEHB, UAlg"
