@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Junior Research Group Leader"
-  company = "TraCEr, MONREPOS, RGZM."
+  title = "Research Group Leader"
+  company = "TraCEr, MONREPOS, Leibniz Zentrum für Archaeologie."
   company_url = ""
   location = "Neuwied, Germany"
   date_start = "2017-01-01"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Associated scientist"
+  title = "Associated researcher"
   company = "ICArEHB, International research Centre for archaeology and evolution of Human behavior"
   company_url = ""
   location = "Faro, Portugal"
@@ -65,5 +65,15 @@ date_format = "Jan 2006"
   location = "Faro, Portugal & Barcelona, Spain"
   date_start = "2014-01-01"
   date_end = "2016-12-31"
+  description = ""
+  
+"""
+ [[experience]]
+  title = "PhD candidate"
+  company = "ICArEHB, UAlg"
+  company_url = ""
+  location = "Faro, Portugal"
+  date_start = "2010-01-01"
+  date_end = "2013-12-31"
   description = ""
 +++

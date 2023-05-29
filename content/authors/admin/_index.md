@@ -16,19 +16,6 @@ interests:
 - Paleolithic archaeology
 - Reproducible research and FAIR principles in archaeological research
 - Robots in experimental archaeology
-Positions:
-- course: Research Group Leader
-  institution: "TraCEr, MONREPOS-RGZM"
-  year: since 2017
-- course: Adjunct Lecture
-  institution: "Johannes Gutenberg-Universität Mainz, Mainz"
-  year: since 2017
-- course: Assistant Professor
-  institution: Departamento de História. Universidade de Évora
-  year: "2020-2022"
-- course: Postdoctoral position
-  institution: "ICArEHB & CSIC-IMF"
-  year: "2014-2016"
 education:
   courses:
   - course: PhD in Prehistoric Archaeology

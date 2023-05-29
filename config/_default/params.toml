@@ -22,7 +22,7 @@ font = "Classic"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "S"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "joao.marreiros@rgzm.de"
+email = "joao.marreiros@leiza.de"
 phone = ""
 
 # Address
@@ -93,7 +93,7 @@ address = {street = "Schloss MONREPOS", city = "Neuwied", region = "RP", postcod
 coordinates = {latitude = "50.481191", longitude = "7.443173"}
 
 # Directions for visitors to locate you.
-directions = "Start by visting our Museum!"
+directions = "Start by visting our Museum!, https://monrepos.rgzm.de/en/"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -106,7 +106,6 @@ office_hours = [""]
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jmmarreiros"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:joaommarreiros?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
