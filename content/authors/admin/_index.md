@@ -58,9 +58,9 @@ user_groups:
 ---
 
 **Welcome!** 
-I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS** (www.tracermonrepos-blog.com), Archaeological Research Centre and Museum for Human Behavioural Evolution, LEIZA (https://www.leiza.de/) in Neuwied, Germany. I’m also an Affiliated Researcher at the ICArEHB, Interdisciplinary Center for Archaeology and Evolution of Human Behavior, University of Algarve (http://www.icarehb.com/). 
-I’m interested on unraveling **early hominin technological evolution**, with special fascination on understanding how stone tools were designed, produced, and used. I found intriguing how technological choices made in the past guided us to what we are today. thus my main research interests are focused on the study of why, how, and what for humans change their technological system and what can those changes tell us about past human behaviours. 
+I’m an archaeologist, currently **working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS** (www.tracermonrepos-blog.com), LEIZA (https://www.leiza.de/). I’m also an Affiliated Researcher at the ICArEHB (http://www.icarehb.com/). 
 
+I’m interested on unraveling **early hominin technological evolution**, with special fascination on understanding how stone tools were designed, produced, and used. I found intriguing how technological choices made in the past guided us to what we are today.
 To investigate this topic, I focus on: 1) understanding **when** and **where** the design and production of stone tools change over time (artefact analysis and field work), 2) the association between tool design (different forms) and **tool used**, and ultimately, 3) **why humans changed** the way they design and used their tools, and what does this tell us about changes on the evolution of human behavior (mainly via lab experimentation). 
 
 This personal and independent website is about my research on Pleistocene Archaeology! The main aim is to *disseminate my research, share data and details about my projects in the lab and field*. Feel free to contact me if you have any ideas and/or inputs! They're all very welcome!
