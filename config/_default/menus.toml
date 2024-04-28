@@ -41,7 +41,7 @@
 
 [[main]]
   name = "Opportunities"
-  url = "#jobs"
+  url = "#opportunities"
   weight = 80
 
 #[[main]]
