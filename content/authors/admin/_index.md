@@ -16,6 +16,7 @@ interests:
 - Stone tool production, design and use
 - Past hominin technological innovations
 - Palaeolithic archaeology
+- Archaeological survey and excavation methods
 - Robots in experimental archaeology
 education:
   courses:
