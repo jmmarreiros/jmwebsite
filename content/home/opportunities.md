@@ -1,13 +1,13 @@
 +++
-# Dunding section created with the Pages widget.
-# This section displays recent talks from `content/jobs/`.
+# A Recent Blog Posts section created with the Pages widget.
+# This section displays recent blog posts from `content/jobs/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Opportunities"
+title = "Recent opportunities"
 subtitle = ""
 
 [content]
@@ -30,9 +30,7 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    
+  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -46,7 +44,7 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-
+  
   # Background color.
   # color = "navy"
   
