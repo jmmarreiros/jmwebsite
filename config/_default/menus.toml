@@ -11,12 +11,12 @@
 [[main]]
   name = "News"
   url = "#posts"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 30
+  weight = 50
 
 #[[main]]
 #  name = "Recent talks"
@@ -26,12 +26,12 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 50
+  weight = 70
 
 
 #[[main]]
@@ -42,7 +42,7 @@
 [[main]]
   name = "Opportunities"
   url = "#opportunities"
-  weight = 70
+  weight = 80
 
 #[[main]]
   #name = "Funding"
