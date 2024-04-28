@@ -57,7 +57,7 @@ user_groups:
 ---
 
 **Welcome!** 
-I’m an archaeologist, currently working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS (https://monrepos.leiza.de/en/), LEIZA (https://www.leiza.de/). I’m also an Affiliated Researcher at the ICArEHB (http://www.icarehb.com/). 
+I’m an archaeologist, currently working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS (https://monrepos.leiza.de/en), LEIZA (https://www.leiza.de). I’m also an Affiliated Researcher at the ICArEHB (http://www.icarehb.com). 
 
 I’m interested on unraveling **early hominin technological evolution**, with special fascination on understanding how stone tools were designed, produced, and used. I found intriguing how technological choices made in the past guided us to what we are today. To investigate this topic, I focus on artefact analysis, laboratory experiments, and excavation of palaeolithic sites. 
 
