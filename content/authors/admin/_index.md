@@ -21,7 +21,7 @@ interests:
 education:
   courses:
   - course: Post-doctoral fellowsip 
-    institution: ICArEHB and CSCI (IMF)
+    institution: ICArEHB and CSCI (Institución Milá y Fontanals)
     year: 2014-2017
   - course: PhD in Prehistoric Archaeology
     institution: Universidade do Algarve
