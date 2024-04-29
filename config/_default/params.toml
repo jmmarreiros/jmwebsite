@@ -86,14 +86,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Schloss MONREPOS", city = "Neuwied", region = "RP", postcode = "56567", country = "Germarny", country_code = "DE"}
+address = {street = "Schloss  2", city = "Neuwied", region = "RP", postcode = "56567", country = "Germarny", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "50.481191", longitude = "7.443173"}
 
 # Directions for visitors to locate you.
-directions = "Start by visting our Museum!, https://monrepos.rgzm.de/en/"
+directions = "Start by visting our Museum!, https://monrepos.leiza.de/"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

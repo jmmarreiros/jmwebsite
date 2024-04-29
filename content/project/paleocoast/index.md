@@ -10,7 +10,7 @@ tags:
 - Excavation and survey
 - Paleoenvironment / Paleoecology
 
-title: Paleo human coastal adaptations in southwestern Iberia.
+title: Palaeolithic human coastal adaptations in southwestern Iberia.
 url_code: ""
 url_pdf: ""
 url_slides: ""
