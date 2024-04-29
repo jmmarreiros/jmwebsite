@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2024-03-01"
-  date_end = "-"
+  date_end = "2027-01-01"
   description = ""
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Innovations, On the origins of human technological innovations, the Late Middle-to-Upper Paleolithic transition in the Levant"
   url = ""
   certificate_url = ""
-  date_start = "2014-02-01"
-  date_end = "-"
+  date_start = "2024-02-01"
+  date_end = "2026-02-01"
   description = ""
 
 [[item]]
