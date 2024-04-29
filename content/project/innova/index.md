@@ -17,7 +17,8 @@ tags:
 - Stone tool design and use
 - Experimental archaeology
 
-title: On the origins of human technological innovations: the Late Middle-to-Upper Paleolithic transition in the Levant 
+title: On the origins of human technological innovations, the Late Middle-to-Upper Paleolithic transition in the Levant 
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
