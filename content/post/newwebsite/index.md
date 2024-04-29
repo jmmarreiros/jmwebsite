@@ -13,7 +13,7 @@ image:
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
 subtitle: 'to my personal webpage'
-summary: "I everyone! Welcome to my personal webpage. From now on, here you can find the most recent news about my research on Paleolithic Archaeology. This website aims at disseminating my research, including my research interests, most recent published papers, recent talks, news, opportunities, etc. I'll try to keep it up to date as much as I can! Keep in touch in case you have questions or share similar research interests. Get in touch!"
+summary: "Hi everyone! Welcome to my personal webpage. From now on, here you can find the most recent news about my research on Paleolithic Archaeology. This website aims at disseminating my research, including my research interests, recent published papers, recent talks, news, opportunities, etc. I'll try to keep it up to date as much as I can! Please, keep in touch in case you have questions or share similar research interests."
 tags:
 title: 'Welcome'
 ---

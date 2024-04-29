@@ -4,13 +4,13 @@ external_link: ""
 image:
   caption: ""
   focal_point: Smart
-summary: "Soon available."
+summary: "PaleoCoast"
 tags:
 - Late Pleistocene archaeology
 - Excavation and survey
 - Paleoenvironment / Paleoecology
 
-title: PaleoCoast - Paleo human coastal adaptations in southwestern Iberia.
+title: Paleo human coastal adaptations in southwestern Iberia.
 url_code: ""
 url_pdf: ""
 url_slides: ""

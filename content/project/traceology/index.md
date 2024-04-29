@@ -4,15 +4,17 @@ external_link: ""
 image:
   caption: ""
   focal_point: Smart
-summary: "Soon available."
+summary: "TraCEr, at MONREPOS-LEIZA"
 tags:
 - Traceology
-- Tool use and function
+- Tool design
+- Tool use
 - Experimental archaeology
+- Laboratory
 - Robotic archaeology
 - Open access data
 
-title: Traceology and Controlled Experiments (TraCEr at MONREPOS-RGZM)
+title: Laboratory for Traceology and Controlled Experiments
 url_code: ""
 url_pdf: ""
 url_slides: ""

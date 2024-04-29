@@ -4,16 +4,15 @@ external_link: ""
 image:
   caption: ""
   focal_point: Smart
-summary: "Soon available!"
+summary: "NeanderCloud (DFG)"
 tags:
 - Late Middle Palaeolothic
-- Initial Upper Palaeolithic
 - Stone tools innovations
 - Traceology
 - Stone tool design and use
 - Experimental archaeology
 
-title: Stone tool innovations among late Neanderthals and early Anatomically Modern Humans
+title: New and old technologies to understand MP human tool technology, design, and use
 url_code: ""
 url_pdf: ""
 url_slides: ""
