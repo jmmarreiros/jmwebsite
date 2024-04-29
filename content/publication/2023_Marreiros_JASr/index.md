@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: "In archaeological research, identifying variability in the archaeological record helps us decode and reconstruct past human actions. To do so, archaeologists build concepts, definitions, and interpretations using middle-range theory, including analysis of ethnographic observations or hypothesis testing. Hence, when studying the archaeological record, experimental replication of potential past human activities is used to make inferences about how technology was used in the past, allowing archaeologists to reconstruct human behavioural processes (Ascher, 1961, Carrell, 1992, Coles, 1979, Ferguson and Neeley, 2010, Outram, 2008). In other words, experimentation in archaeological research has been used as a crucial method to evaluate hypotheses and assumptions based on researchers’ initial observations and interpretations."
 
 authors:
 - João Marreiros
@@ -17,7 +17,7 @@ publication: "*Journal of Archaeological Science: Reports* (2023)"
 publication_short: ""
 publication_types:
 - 2
-publishDate: "2023"
+publishDate: "2023-05-31T00:00:00Z"
 summary: xxx
 
 

@@ -2,13 +2,7 @@
 abstract: "The ability of humans to mediate environmental variation through tool use is
 likely the key to our success. However, our current knowledge of early cultural
 evolution derives almost exclusively from studies of stone tools and fossil bones
-found in the archaeological record. Tools made of plants are intrinsically perishable, and as such are almost entirely absent in the early record of human material
-culture. Modern human societies as well as nonhuman primate species use plant
-materials for tools far more often than stone, suggesting that current archaeological data are missing a substantial component of ancient technology. Here, we
-develop methods that quantify internal and external damage pattern in percussive wooden tools of living primates. Our work shows that the inflicted damage
-is irreversible, potentially persisting throughout fossilization processes. This
-research presents opportunities to investigate organic artifacts, a significant
-and highly neglected aspect of technological evolution within the Primate order."
+found in the archaeological record. Tools made of plants are intrinsically perishable, and as such are almost entirely absent in the early record of human material culture. Modern human societies as well as nonhuman primate species use plant materials for tools far more often than stone, suggesting that current archaeological data are missing a substantial component of ancient technology. Here, we develop methods that quantify internal and external damage pattern in percussive wooden tools of living primates. Our work shows that the inflicted damage is irreversible, potentially persisting throughout fossilization processes. This research presents opportunities to investigate organic artifacts, a significant and highly neglected aspect of technological evolution within the Primate order."
 
 authors:
 - Lydia Luncz
@@ -26,7 +20,7 @@ publication: "*iScience* (2023)"
 publication_short: ""
 publication_types:
 - 2
-publishDate: "2023"
+publishDate: "2023-05-31T00:00:00Z"
 summary: xxx
 
 tags:
@@ -35,8 +29,7 @@ tags:
 - Quantification
 featured: false
 
-title: "Chimpanzee wooden tool analysis advances the
-identification of percussive technology"
+title: "Chimpanzee wooden tool analysis advances the identification of percussive technology"
 
 url_code: ""
 url_dataset: ""

@@ -33,7 +33,7 @@ publication: "*Quaternary International* (2022)"
 publication_short: ""
 publication_types:
 - 2
-publishDate: "2022"
+publishDate: "2022-05-31T00:00:00Z"
 summary: xxx
 
 

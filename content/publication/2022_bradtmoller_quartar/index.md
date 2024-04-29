@@ -17,7 +17,7 @@ publication: "*Quartär* (2022)"
 publication_short: ""
 publication_types:
 - 2
-publishDate: "2022"
+publishDate: "2022-05-31T00:00:00Z"
 summary: xxx
 
 
@@ -27,8 +27,7 @@ tags:
 - Quantification
 featured: false
 
-title: "Living on the slope. The Middle and Upper
-Paleolithic occupation of Feldberg “Steinacker”"
+title: "Living on the slope. The Middle and Upper Paleolithic occupation of Feldberg “Steinacker”"
 
 url_code: ""
 url_dataset: ""
