@@ -19,7 +19,7 @@ publication: "*Journal of Archaeological Method and Theory* (2024)"
 publication_short: ""
 publication_types:
 - 2
-publishDate: "2021-05-31T00:00:00Z"
+publishDate: "2024-05-31T00:00:00Z"
 summary: xxxxx
 
 

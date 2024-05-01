@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Recent opportunities"
-subtitle = ""
+subtitle = "Job call and internships"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

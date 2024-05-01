@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Accomplishments"
-subtitle = ""
+subtitle = "Research grants and fellowships"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
