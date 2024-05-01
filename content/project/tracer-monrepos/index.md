@@ -1,5 +1,5 @@
 ---
-date: "20120-06-01T00:00:00Z"
+date: "2020-06-01T00:00:00Z"
 external_link: ""
 image:
   caption: ""
@@ -14,11 +14,26 @@ tags:
 - Robotic archaeology
 - Open access data
 
-title: Laboratory for Traceology and Controlled Experiments
+title: TraCEr - Laboratory for Traceology and Controlled Experiments
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-**Under construction...**
+**About**
+
+under construction
+
+**Facilities and equipment**
+
+under construction
+
+**Team**
+
+under construction
+
+**Publications**
+
+under construction
+
