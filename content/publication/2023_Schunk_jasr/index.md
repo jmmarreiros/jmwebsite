@@ -20,7 +20,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2023-06-31T00:00:00Z"
-summary: xxx
+summary: This paper is dedicated to the evaluate the importance of using standard contact material in laboratory experimental replications, in particular in use-wear studies. 
 
 
 tags:

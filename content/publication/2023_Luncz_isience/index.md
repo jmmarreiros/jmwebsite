@@ -21,7 +21,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2023-08-31T00:00:00Z"
-summary: xxx
+summary: 
 
 tags:
 - Traceology

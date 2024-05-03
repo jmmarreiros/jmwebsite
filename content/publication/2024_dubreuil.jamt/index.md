@@ -20,8 +20,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2024-05-31T00:00:00Z"
-summary: xxxxx
-
+summary: This study combines experiments and ethnographic studies to investigate how stone had-oc tools were selected and used in specific techniques applied to the production of plastic mineral matter. We use confocal microscopy to identify and quantify the traces of use left during these processes and later compare with those found on archaeological artefacts from the Late Natufian in the Levant.
 
 tags:
 - Traceology

@@ -18,7 +18,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2022-05-31T00:00:00Z"
-summary: xxx
+summary: This paper focuses on presenting the results of several excavations at the open-air site of Românești-Dumbrăvița, Romania. In the paper we report data on the archaeological assemblages, including stone tool technology and use-wear analysis, site formation and dating. This is a very important Aurignacian site from East-Central Europe.
 
 
 tags:

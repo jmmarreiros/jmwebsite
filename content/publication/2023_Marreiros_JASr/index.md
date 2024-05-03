@@ -18,7 +18,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2023-05-31T00:00:00Z"
-summary: xxx
+summary: This paper is a introductory note to a organised symposium at the EAA conference meeting. Participation in this symposium aimed at presenting and discussion studies focusing on the relevance of contact material used on use-wear-related experimentation. The paper provides a general framework and brief summeary of each contribution! It was a very useful and fun session! Thanks to all participants. Several papers have been published in the same JASr issue.
 
 
 tags:

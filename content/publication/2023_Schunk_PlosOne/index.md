@@ -18,7 +18,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2023-07-31T00:00:00Z"
-summary: xxx.
+summary: In this paper we presente a new method, semi-automated, to measure and calculate the variability of the edge of stone tools' edges. 3D-EdgeAngle calculates the edge angle at any point in a high resolution and scale of analysis, and helps to evaluate how tool use and retouch affect the desing of stone tools found in the archaeological record.
 
 
 tags:
