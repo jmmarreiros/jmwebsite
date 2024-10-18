@@ -69,7 +69,7 @@ well as tool function and use, here applied to the case study of
 Keilmesser, is conditional upon tracing certain behavioural phenomena of
 Neanderthals.
 
-![](images/Fig_8.jpg){width="486"}
+![](images/Fig_8.jpg){width="389"}
 
 **Research agenda and goals**
 
@@ -109,7 +109,7 @@ tool performance will be focused on understanding aspects of tool
 effectiveness, efficiency, and durability, and how these relate to the
 different features involved in the tool’s design.
 
-![](images/figure_7.jpg)
+![](images/figure_7.jpg){width="466"}
 
 **Team**
 

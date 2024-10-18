@@ -62,7 +62,7 @@ studies, this project has the potential to elucidate the correlation
 between changes in the production, design, and use of stone tools during
 a key transitional process in our evolutionary journey.
 
-![](images/273_1.25x_edgedamage.png)
+![](images/273_1.25x_edgedamage.png){width="441"}
 
 **Research agenda and goals**
 
@@ -109,7 +109,7 @@ will be used to test a series of empirically based hypotheses:
     significant link between tool types and their use or performance is
     observed among LMP and IUP stone tools.
 
-![](images/396_10x_AOI1.png){width="679"}
+![](images/396_10x_AOI1.png){width="466"}
 
 **Team**
 
