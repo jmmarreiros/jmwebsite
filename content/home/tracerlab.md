@@ -7,12 +7,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Recent opportunities"
-subtitle = "Job call and internships"
+title = "TraCEr at MONREPOS"
+subtitle = "Laboratory for Traceology and Controlled Experiments"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "jobs"
+  page_type = "tracerlab"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
