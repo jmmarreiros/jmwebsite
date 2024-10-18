@@ -28,7 +28,6 @@ authors:
 date: "2024"
 doi: "https://doi.org/10.1016/j.jas.2024.106003"
 
-"
 featured: false
 image:
   caption: ""

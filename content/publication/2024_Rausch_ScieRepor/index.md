@@ -19,7 +19,6 @@ authors:
 date: "2024"
 doi: "https://doi.org/10.1038/s41598-024-70265-1"
 
-"
 featured: false
 image:
   caption: ""
