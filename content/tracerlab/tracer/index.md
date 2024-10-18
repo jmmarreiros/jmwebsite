@@ -6,14 +6,14 @@ date: "2020-07-03T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Internships for junior and senior researchers'
+  caption: 'TraCEr - Laboratory for Traceology and Controlled Experiments'
   focal_point: ""
   placement: 2
   preview_only: false
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
 subtitle: ''
-summary: "TraCEr, Laboratory for Traceology and Controlled Experiments, at MONREPOS-LEIZA"
+summary: "The Laboratory for Traceology and Controlled Experiments (TraCEr) runs under the research umbrella of the MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, namely, understanding the evolution of our behaviour..."
 tags:
 title: 'TraCEr - Laboratory for Traceology and Controlled Experiments'
 ---
