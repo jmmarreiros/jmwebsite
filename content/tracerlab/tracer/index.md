@@ -8,7 +8,7 @@ featured: false
 image:
   caption: 'TraCEr - Laboratory for Traceology and Controlled Experiments'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
