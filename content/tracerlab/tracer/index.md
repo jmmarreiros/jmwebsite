@@ -34,7 +34,7 @@ b)  One often neglected factor is the range of raw materials properties (e.g. ha
 
 c)  High-resolution 3D imaging methods will be applied to document, quantify and interpret use-wear traces on both experimental and archaeological samples. 3D digital data will be quantified to both minimize potential sources of error/bias and to generate data that can be statistically tested. Digital data will be made available in an open access library to other researchers.
 
-![](images/DSC_0360.jpeg){width="418"}
+![](images/DSC_0360.jpeg)
 
 **Facilities and equipment**
 

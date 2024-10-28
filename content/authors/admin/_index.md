@@ -5,7 +5,7 @@ superuser: yes
 role: Research Group Leader
 organizations:
 - name: "TraCEr - Laboratory for Traceology and Controlled Experiments"
-  url: "https://monrepos.leiza.de/en/tracer/"
+  url: "https://www.joaomarreiros.com/tracerlab/tracer/"
 - name: "MONREPOS-Leibniz Zentrum für Archaeologie (LEIZA)"
   url: "https://www.leiza.de/ueber-uns/team/person/joao-manuel-figueiras-marreiros"
 - name: ICArEHB, Uni. Algarve

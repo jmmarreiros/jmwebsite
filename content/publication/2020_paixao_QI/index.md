@@ -19,7 +19,7 @@ publication: "*Quaternary International* (2022)"
 publication_short: ""
 publication_types:
 - 2
-publishDate: "2022"
+publishDate: "2022-05-31T00:00:00Z"
 summary: Our study aimed at reporting and evaluating the variability of the so-called grounds stone tools recovered from the Middle Paleolithic occupations at the site of Nesher Ramla. focusing and combining a technological and functional approach, our analysis and results combine different types of observations and characterization of the various use-wear damages on these tools' surface. While the results report a significant level of diversification in resource exploitation, we still need to develop more experiments to fully identify and understand some of the micro wear traces, and, therefore, reconstruct all activities and worked materials at the site. This study is quite interesting as it reveals the ecological and technological dynamics of these MP populations."
 
 tags:
