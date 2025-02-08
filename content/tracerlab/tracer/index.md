@@ -19,6 +19,8 @@ tags:
 title: 'TraCEr - Laboratory for Traceology and Controlled Experiments'
 ---
 
+{{< justify >}}
+
 **About**
 
 The Laboratory for Traceology and Controlled Experiments (TraCEr) runs under the research umbrella of the MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, namely, understanding the evolution of our behaviour during the early history of humanity. In Pleistocene Archaeology, interpreting artefact variability in the archaeological record has long been one of the most debated topics, mainly related to different types of raw materials and their possible use by past humans. In fact, to what uses humans put their tools and how these might have varied through time and space is one of the key areas of research for understanding the evolution of human behaviour. The very presence of diverse types of materials in artefacts assemblages shows that humans managed different resources and, therefore, technology was characterized by the production of different tools made from materials with different properties. Functional studies are of major importance in order to determine and understand artefact use, and thus to address fundamental questions about the evolution of human behaviour. The main scope of TraCEr is to carry ground-breaking functional studies that combine 1) methodological development and 2) fundamental research on Pleistocene and Early Holocene archaeology.
@@ -107,3 +109,6 @@ d)  *Experimental workshop*. The experimental workshop is equipped to test diffe
 -   Schunk, L., Gneisinger, W., Calandra, I. and Marreiros, J., 2023. The role of artificial contact materials in experimental use-wear studies: A controlled proxy to understand use-wear polish formation. Journal of Archaeological Science: Reports, 47, p.103737.
 -   Paixão, E., Marreiros, J., Dubreuil, L., Gneisinger, W., Carver, G., Prévost, M. and Zaidner, Y., 2022. The Middle Paleolithic ground stones tools of Nesher Ramla unit V (Southern Levant): A multi-scale use-wear approach for assessing the assemblage functional variability. Quaternary International, 624, pp.94-106.
 -   Paixao, E., Pedergnana, A., Marreiros, J., Dubreuil, L., Prevost, M., Zaidner, Y., Carver, G. and Gneisinger, W., 2021. Using mechanical experiments to study ground stone tool use: Exploring the formation of percussive and grinding wear traces on limestone tools. Journal of Archaeological Science: Reports, 37, p.102971.
+
+{{< /justify >}}
+
