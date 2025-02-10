@@ -21,6 +21,13 @@ editor_options:
     wrap: 72
 ---
 
+```{=html}
+<style>
+body {
+  text-align: justify;
+}
+</style>
+```
 **Rationale**
 
 Archaeologists attempt to answer questions regarding the evolution of
