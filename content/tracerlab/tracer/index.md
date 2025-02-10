@@ -1,12 +1,11 @@
 ---
-authors:
-- admin
-categories:
+title: "TraCEr - Laboratory for Traceology and Controlled Experiments"
+categories: null
 date: "2020-07-03T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'TraCEr - Laboratory for Traceology and Controlled Experiments'
+  caption: "TraCEr - Laboratory for Traceology and Controlled Experiments"
   focal_point: smart
   width: 150
   height: 150
@@ -16,9 +15,11 @@ image:
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
 subtitle: ''
-summary: "The Laboratory for Traceology and Controlled Experiments (TraCEr) runs under the research umbrella of the MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, namely, understanding the evolution of our behaviour..."
-tags:
-title: 'TraCEr - Laboratory for Traceology and Controlled Experiments'
+summary: The Laboratory for Traceology and Controlled Experiments (TraCEr) runs under
+  the research umbrella of the MONREPOS Archaeological Research Centre and Museum
+  for Human Behavioural Evolution, namely, understanding the evolution of our behaviour...
+tags: null
+authors: admin
 ---
 
 ```{=html}
@@ -32,8 +33,8 @@ body {
 
 The Laboratory for Traceology and Controlled Experiments (TraCEr) runs under the research umbrella of the MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, namely, understanding the evolution of our behaviour during the early history of humanity. In Pleistocene Archaeology, interpreting artefact variability in the archaeological record has long been one of the most debated topics, mainly related to different types of raw materials and their possible use by past humans. In fact, to what uses humans put their tools and how these might have varied through time and space is one of the key areas of research for understanding the evolution of human behaviour. The very presence of diverse types of materials in artefacts assemblages shows that humans managed different resources and, therefore, technology was characterized by the production of different tools made from materials with different properties. Functional studies are of major importance in order to determine and understand artefact use, and thus to address fundamental questions about the evolution of human behaviour. The main scope of TraCEr is to carry ground-breaking functional studies that combine 1) methodological development and 2) fundamental research on Pleistocene and Early Holocene archaeology.
 
-\# 
-#**Method**
+ 
+# **Method**
 
 By developing innovative and controlled experimental protocols, as well as high-resolution 3D imaging techniques, methods will be improved in order to assess the formation criteria of use-wear traces on different types of materials found in the archaeological record (this involves organic, such as hard animal materials, but also non-organic, such as stone tools). Methodological apparatus (i.e. mechanical devices) will be used to improve experimental validation, establish protocols and define standards, contributing to establishing standards in the experimental protocols and in the data acquisition, documentation and quantification on use-wear studies.
 
@@ -47,8 +48,8 @@ c)  High-resolution 3D imaging methods will be applied to document, quantify and
 
 <img src="images/DSC_0360.jpeg" alt="LSM Zeiss microscope" width="400"/>
 
-\# 
-#**Facilities and equipment**
+
+# **Facilities and equipment**
 
 ### *Imaging laboratory*
 
@@ -61,26 +62,21 @@ The imaging laboratory will be dedicated to macroscopic and microscopic imaging,
 -   Upright light microscope, Zeiss Axio Imager.Z2 Vario, coupled to a 3D laser-scanning confocal microscope, Zeiss LSM 800 MAT
 -   Scanning electron microscope, Zeiss EVO 25, coupled to an energy-dispersive X-ray spectroscopy detector, Bruker Quantax XFlash 6\|30M
 
-\#
+
 ### *Sampling laboratory*
 
 The Sampling lab will be used for preparing all different types of samples, including different materials used for experiments and archaeological artefacts for analysis.
 
-\# 
 ### *Reference archive*
 
 The office and archive room includes office desks and a reference library for state-of-the-art bibliography on use-wear and controlled experiments regarding theoretical background, methods and techniques, and also archaeological case studies. This room also hosts the TraCEr use-wear experimental reference collection.
 
-\# 
 ### *Experimental workshop*
 
 The experimental workshop is equipped to test different materials and activities. Experimental setups will be as controlled as possible, combining several mechanical appliances and material properties testers.
 
-\# 
 #**Team**
 
-\#
-\#
 
 # Integrated members
 
@@ -100,7 +96,7 @@ The experimental workshop is equipped to test different materials and activities
 
 -   Geoff Carver, Software engineer
 
-\# \## Affiliated members
+# Affiliated members
 
 -   [Eduardo Paixao](https://www.researchgate.net/profile/Eduardo-Paixao), Postdoctoral researcher, ICArEHB-UAlg
 
@@ -118,13 +114,12 @@ The experimental workshop is equipped to test different materials and activities
 
 -   [Ejder Babazade](https://www.researchgate.net/profile/Ejder-Babazade-2), PhD candidate, Azerbaijan National Academy of Sciences
 
-\# \## Former members
+# Former members
 
 -   [Antonella Pedergnana](https://www.iceman.it/en/the-team/)
 
 -   [Ulrich Thaler](https://www.smac.sachsen.de/ueberuns.html)
 
-\# \#
 
 # **Recent Publications**
 
