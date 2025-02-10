@@ -116,7 +116,7 @@ tool performance will be focused on understanding aspects of tool
 effectiveness, efficiency, and durability, and how these relate to the
 different features involved in the tool’s design.
 
-![](images/figure_7.jpg){width="466"}
+<img src="images/figure_7.jpg" alt="Schunk et al. 2024" width="400"/>
 
 **Team**
 
