@@ -75,7 +75,7 @@ The office and archive room includes office desks and a reference library for st
 
 The experimental workshop is equipped to test different materials and activities. Experimental setups will be as controlled as possible, combining several mechanical appliances and material properties testers.
 
-#**Team**
+# **Team**
 
 
 # Integrated members
