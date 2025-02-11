@@ -6,12 +6,8 @@ draft: false
 featured: false
 image:
   caption: "TraCEr - Laboratory for Traceology and Controlled Experiments"
-  focal_point: smart
-  width: 150
-  height: 150
   placement: center
   alignment: center
-  preview_only: false
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
 subtitle: ''
