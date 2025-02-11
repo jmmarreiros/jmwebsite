@@ -15,7 +15,6 @@ summary: The Laboratory for Traceology and Controlled Experiments (TraCEr) runs 
   the research umbrella of the MONREPOS Archaeological Research Centre and Museum
   for Human Behavioural Evolution, namely, understanding the evolution of our behaviour...
 tags: null
-authors: admin
 ---
 
 ```{=html}
