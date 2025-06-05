@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Group Leader"
-  company = "TraCEr, MONREPOS, Leibniz Zentrum für Archaeologie."
+  company = "Leibniz Zentrum für Archaeologie, MONREPOS"
   company_url = ""
   location = "Neuwied, Germany"
   date_start = "2017-01-01"
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Associated researcher"
+  title = "Researcher"
   company = "ICArEHB, International research Centre for archaeology and evolution of Human behavior"
   company_url = ""
   location = "Faro, Portugal"

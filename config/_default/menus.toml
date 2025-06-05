@@ -11,32 +11,32 @@
 [[main]]
   name = "My Research"
   url = "#research"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "TraCEr (MONREPOS-LEIZA)"
   url = "#tracerlab"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 50
+  weight = 70
 
 [[main]]
   name = "Opportunities"
   url = "#opportunities"
-  weight = 60
+  weight = 80
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
