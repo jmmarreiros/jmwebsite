@@ -23,7 +23,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2024-08-31T00:00:00Z"
-summary: xxx.
+summary: .
 
 tags:
 - Use-wear analysis
