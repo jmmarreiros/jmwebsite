@@ -55,9 +55,9 @@ user_groups:
 **Welcome!** 
 I’m an archaeologist, currently working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS (https://monrepos.leiza.de/en), LEIZA (https://www.leiza.de). I’m also a Researcher at the ICArEHB (http://www.icarehb.com). 
 
-I am passionate about the evolution of technology. As an achaeologist, I’m interested in unravelling **early hominin technological evolution**, with a special fascination for understanding how stone tools were designed, produced, and used. I found it intriguing how technological choices made in the past guided us to what we are today. To investigate this topic, I focus on artefact analysis, laboratory experiments, and excavation of palaeolithic sites. 
+I am passionate about the evolution of technology. As an achaeologist, I’m interested in unravelling major steps on **early hominin technological evolution**, with a special focus on how stone tools were designed and used. I found it intriguing how technological choices made in the past guided us to what we are today. To investigate this topic, I focus on artefact analysis, laboratory experiments, and excavation of palaeolithic sites. 
 
 This independent website is about my research on Pleistocene Archaeology! The main aim is to **disseminate my research, and share data and details about my projects in the lab and field**. Feel free to get in touch!
 
-I'll regularly update this site with news on my projects, brief intros to my most recent published papers and other research material. You can also find me online on **Bluesky**, **GitHub** and **ResearchGate**.
+I'll regularly update this site with news on my projects, brief intros to my most recent published papers and other research material. You can also find me online on [Bluesky](https://bsky.app/profile/jmarreiros.bsky.social).
 

@@ -16,7 +16,7 @@
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 50
+  weight = 70
 
 #[[main]]
 #  name = "Recent talks"
@@ -26,12 +26,12 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "TraCEr (MONREPOS-LEIZA)"
   url = "#tracerlab"
-  weight = 70
+  weight = 60
 
 #[[main]]
   #name = "Teaching"
