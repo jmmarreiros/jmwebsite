@@ -4,11 +4,9 @@ authors: admin
 superuser: yes
 role: Research Group Leader
 organizations:
-- name: "TraCEr - Laboratory for Traceology and Controlled Experiments"
-  url: "https://www.joaomarreiros.com/tracerlab/tracer/"
-- name: "MONREPOS-Leibniz Zentrum für Archaeologie (LEIZA)"
+- name: "Leibniz Zentrum für Archaeologie (LEIZA) - MONREPOS"
   url: "https://www.leiza.de/ueber-uns/team/person/joao-manuel-figueiras-marreiros"
-- name: ICArEHB, Uni. Algarve
+- name: ICArEHB, University of Algarve
   url: http://www.icarehb.com/jmarreiros/
 bio: My research interests include Human Behaviour, Pleistocene stone tools, traceology, digital archaeology
   and experimental archaeology
@@ -53,7 +51,7 @@ user_groups:
 ---
 
 **Welcome!** 
-I’m an archaeologist, currently working at the Laboratory for Traceology and Controlled Experiments (TraCEr) at MONREPOS (https://monrepos.leiza.de/en), LEIZA (https://www.leiza.de). I’m also a Researcher at the ICArEHB (http://www.icarehb.com). 
+I’m an archaeologist, currently working as a Research Group Leader at the Laboratory for Traceology and Controlled Experiments (TraCEr) at [LEIZA - MONREPOS](https://www.leiza.de/), and I’m also a Researcher at the [ICArEHB](http://www.icarehb.com). 
 
 I am passionate about the evolution of technology. As an achaeologist, I’m interested in unravelling major steps on **early hominin technological evolution**, with a special focus on how stone tools were designed and used. I found it intriguing how technological choices made in the past guided us to what we are today. To investigate this topic, I focus on artefact analysis, laboratory experiments, and excavation of palaeolithic sites. 
 
