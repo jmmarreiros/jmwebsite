@@ -10,9 +10,10 @@ organizations:
   url: "https://www.leiza.de/ueber-uns/team/person/joao-manuel-figueiras-marreiros"
 - name: ICArEHB, Uni. Algarve
   url: http://www.icarehb.com/jmarreiros/
-bio: My research interests include Pleistocene stone tools, traceology, digital archaeology
+bio: My research interests include Human Behaviour, Pleistocene stone tools, traceology, digital archaeology
   and experimental archaeology
 interests:
+- Human behaviour
 - Stone tool production, design and use
 - Past hominin technological innovations
 - Palaeolithic archaeology
@@ -20,9 +21,6 @@ interests:
 - Robots in experimental archaeology
 education:
   courses:
-  - course: Post-doctoral fellowsip 
-    institution: ICArEHB and CSCI (Institución Milá y Fontanals)
-    year: 2014-2017
   - course: PhD in Prehistoric Archaeology
     institution: Universidade do Algarve
     year: 2010-2013
@@ -36,9 +34,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jmmarreiros
 - icon: "google-scholar"
   icon_pack: ai
   link: "https://scholar.google.com/citations?user=eR0P8TYAAAAJ&hl=pt-PT&authuser=1"
@@ -64,5 +59,5 @@ I’m interested in unravelling **early hominin technological evolution**, with 
 
 This independent website is about my research on Pleistocene Archaeology! The main aim is to **disseminate my research, and share data and details about my projects in the lab and field**. Feel free to get in touch!
 
-I'll regularly update this site with news on my projects, brief intros to my most recent published papers and other research material. You can also find me online on **Twitter**, **GitHub** and **ResearchGate**.
+I'll regularly update this site with news on my projects, brief intros to my most recent published papers and other research material. You can also find me online on **Bluesky**, **GitHub** and **ResearchGate**.
 
