@@ -1,11 +1,11 @@
 ---
-title: "TraCEr - Laboratory for Traceology and Controlled Experiments"
+title: "Laboratory for Traceology and Controlled Experiments"
 categories: null
 date: "2020-07-03T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: "TraCEr - Laboratory for Traceology and Controlled Experiments"
+  caption: "Laboratory for Traceology and Controlled Experiments"
   placement: center
   alignment: center
 lastmod: "2020-07-03T00:00:00Z"

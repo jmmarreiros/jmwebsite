@@ -1,5 +1,5 @@
 ---
-title: "TraCEr - Laboratory for Traceology and Controlled Experiments"
+title: "My research"
 categories: null
 date: "2020-07-03T00:00:00Z"
 draft: false
@@ -39,7 +39,7 @@ c)  High-resolution 3D imaging methods will be applied to document, quantify and
 
 # **Facilities and equipment**
 
-### *Imaging laboratory*
+## *Imaging laboratory*
 
 The imaging laboratory will be dedicated to macroscopic and microscopic imaging, including the following five main pieces of equipment (please find more details [here](https://monrepos.leiza.de/en/raeumlichkeiten/)):
 
@@ -51,22 +51,22 @@ The imaging laboratory will be dedicated to macroscopic and microscopic imaging,
 -   Scanning electron microscope, Zeiss EVO 25, coupled to an energy-dispersive X-ray spectroscopy detector, Bruker Quantax XFlash 6\|30M
 
 
-### *Sampling laboratory*
+## *Sampling laboratory*
 
 The Sampling lab will be used for preparing all different types of samples, including different materials used for experiments and archaeological artefacts for analysis.
 
-### *Reference archive*
+## *Reference archive*
 
 The office and archive room includes office desks and a reference library for state-of-the-art bibliography on use-wear and controlled experiments regarding theoretical background, methods and techniques, and also archaeological case studies. This room also hosts the TraCEr use-wear experimental reference collection.
 
-### *Experimental workshop*
+## *Experimental workshop*
 
 The experimental workshop is equipped to test different materials and activities. Experimental setups will be as controlled as possible, combining several mechanical appliances and material properties testers.
 
 # **Team**
 
 
-# Integrated members
+## Integrated members
 
 -   [Joao Marreiros](https://www.researchgate.net/profile/Joao-Marreiros-3), Research Group Leader
 
@@ -84,7 +84,7 @@ The experimental workshop is equipped to test different materials and activities
 
 -   Geoff Carver, Software engineer
 
-# Affiliated members
+## Affiliated members
 
 -   [Eduardo Paixao](https://www.researchgate.net/profile/Eduardo-Paixao), Postdoctoral researcher, ICArEHB-UAlg
 
@@ -102,7 +102,7 @@ The experimental workshop is equipped to test different materials and activities
 
 -   [Ejder Babazade](https://www.researchgate.net/profile/Ejder-Babazade-2), PhD candidate, Azerbaijan National Academy of Sciences
 
-# Former members
+## Former members
 
 -   [Antonella Pedergnana](https://www.iceman.it/en/the-team/)
 
