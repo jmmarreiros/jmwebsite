@@ -15,6 +15,8 @@ title: New and old technologies to understand MP human tool technology, design, 
 
 ---
 
+*Funding*: DFG Deutsche Forschungsgemeinschaft
+
 **Rationale**
 
 Archaeologists attempt to answer questions regarding the evolution of
