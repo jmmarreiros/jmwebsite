@@ -12,22 +12,9 @@ tags:
 - Stone tool design and use
 - Experimental archaeology
 title: New and old technologies to understand MP human tool technology, design, and use
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-editor_options: 
-  markdown: 
-    wrap: 72
+
 ---
 
-```{=html}
-<style>
-body {
-  text-align: justify;
-}
-</style>
-```
 **Rationale**
 
 Archaeologists attempt to answer questions regarding the evolution of
@@ -76,7 +63,8 @@ well as tool function and use, here applied to the case study of
 Keilmesser, is conditional upon tracing certain behavioural phenomena of
 Neanderthals.
 
-![](images/Fig_8.jpg){width="389"}
+![](images/Fig_8.jpg)
+
 
 **Research agenda and goals**
 
@@ -116,25 +104,30 @@ tool performance will be focused on understanding aspects of tool
 effectiveness, efficiency, and durability, and how these relate to the
 different features involved in the tool’s design.
 
-<img src="images/figure_7.jpg" alt="Schunk et al. 2024" width="400"/>
+![](images/figure_7.jpg)
+
 
 **Team**
 
-Principal Investigators - João Marreiros, TraCEr-MONREPOS. LEIZA,
-Mainz - Andreas Hildebrandt, Institut für Informatik, Johannes Gutenberg
-University Mainz
+Principal Investigators 
+-   João Marreiros, TraCEr-MONREPOS. LEIZA
+-   Andreas Hildebrandt, Institut für Informatik, Johannes Gutenberg University Mainz
 
-Research team - Lisa Schunk, Department of Archaeology, University of
-Cambridge - Paolo Sferrazza, TraCEr-MONREPOS. LEIZA, Mainz - Ivan
-Calandra, MONREPOS. LEIZA, Mainz - Walter Gneisinger, TraCEr-MONREPOS.
-LEIZA, Mainz
+Research team 
+-   Lisa Schunk, Department of Archaeology, University of Cambridge 
+-   Paolo Sferrazza, TraCEr-MONREPOS. LEIZA
+-   Ivan Calandra, MONREPOS. LEIZA
+-   Walter Gneisinger, TraCEr-MONREPOS.LEIZA
+-   Tim Maier, Institut für Informatik, Johannes Gutenberg University Mainz
+-   Jennifer Leclaire, Institut für Informatik, Johannes Gutenberg University Mainz
 
-Collaborators - Alastair Key. Department of Archaeology, University of
-Cambridge - Andrzej Wisniewski. Institute for Archaeology, Faculty of
-Historical and Pedagogical Sciences, University of Wroclaw - Olaf. Joris
-MONREPOS. LEIZA, Mainz - Marcel Weiß. Institut fur Ur- und
-Fruhgeschichte, Friedrich-Alexander-Universitat Erlangen-Nurnberg - Petr
-Neruda, Moravské zemské muzeum, Brno
+Collaborators 
+-   Alastair Key. Department of Archaeology, University of Cambridge 
+-   Andrzej Wisniewski. Institute for Archaeology, Faculty of Historical and Pedagogical Sciences, University of Wroclaw 
+-   Olaf. Joris MONREPOS. LEIZA, Mainz 
+-   Marcel Weiß. Institut fur Ur- und Fruhgeschichte, Friedrich-Alexander-Universitat Erlangen-Nurnberg 
+-   Petr Neruda, Moravské zemské muzeum, Brno
+
 
 **Publications related to the project**
 

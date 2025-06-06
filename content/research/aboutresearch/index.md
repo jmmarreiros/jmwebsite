@@ -1,11 +1,11 @@
 ---
-title: "My research"
+title: "Stone tool use"
 categories: null
 date: "2020-07-03T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: "TraCEr - Laboratory for Traceology and Controlled Experiments"
+  caption: "Key components of stone tool use"
   placement: center
   alignment: center
 lastmod: "2020-07-03T00:00:00Z"
