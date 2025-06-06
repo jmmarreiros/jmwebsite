@@ -17,14 +17,10 @@ tags:
 - Stone tool design and use
 - Experimental archaeology
 title: On the origins of human technological innovations, the Late Middle-to-Upper Paleolithic transition in the Levant 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-editor_options: 
-  markdown: 
-    wrap: 72
+
 ---
+
+*Funding*: The Leakey Foundation
 
 **About**
 
@@ -62,7 +58,8 @@ studies, this project has the potential to elucidate the correlation
 between changes in the production, design, and use of stone tools during
 a key transitional process in our evolutionary journey.
 
-![](images/273_1.25x_edgedamage.png){width="441"}
+![](images/273_1.25x_edgedamage.png)
+
 
 **Research agenda and goals**
 
@@ -109,18 +106,26 @@ will be used to test a series of empirically based hypotheses:
     significant link between tool types and their use or performance is
     observed among LMP and IUP stone tools.
 
-![](images/396_10x_AOI1.png){width="466"}
+![](images/396_10x_AOI1.png)
+
 
 **Team**
 
-PI - João Marreiros, MONREPOS. LEIZA, Mainz
+PI
+-   João Marreiros, MONREPOS. LEIZA, Mainz
 
-Collaborators - Mae Goder-Goldberger, Department Archaeology, Ben Gurion
-University of the Negev - Erella Hovers, Institute of Archaeology, The
-Hebrew University of Jerusalem. Israel. - Eduardo Paixão, ICArEHB,
+Collaborators 
+-   Mae Goder-Goldberger, Department Archaeology, Ben Gurion
+University of the Negev 
+-   Erella Hovers, Institute of Archaeology, The
+Hebrew University of Jerusalem. Israel
+-   Eduardo Paixão, ICArEHB,
 Interdisciplinary Center for Archaeology and Evolution Human Behaviour,
-University of Algarve - Ariel Malinsky-Buller, Institute of Archaeology,
-The Hebrew University of Jerusalem. Israel.
+University of Algarve
+-   Andreas Maier, Institut für Ur- und Frühgeschichte, University of Cologne
+-   Florian Sauer, Institut für Ur- und Frühgeschichte, University of Cologne
+-   Jacopo Gennai, University of Pisa
+
 
 **Most recent publications related to the project**
 
