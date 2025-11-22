@@ -2,16 +2,8 @@
 title: "Laboratory for Traceology and Controlled Experiments"
 categories: null
 date: "2020-07-03T00:00:00Z"
-output: pdf_document
+output:
 featured: false
-image:
-  caption: Laboratory for Traceology and Controlled Experiments
-  placement: 2
-  focal_point: center
-  preview_only: false
-  alt: Lab
-  width: 600
-  height: 175
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
 subtitle: ''
@@ -21,6 +13,9 @@ summary: The Laboratory for Traceology and Controlled Experiments (TraCEr) runs 
 tags: null
 draft: false
 ---
+
+<img src="featured.jpg" alt="TraCEr" width="200"
+      style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
 
 **About**
 
@@ -39,7 +34,7 @@ b)  One often neglected factor is the range of raw materials properties (e.g. ha
 
 c)  High-resolution 3D imaging methods will be applied to document, quantify and interpret use-wear traces on both experimental and archaeological samples. 3D digital data will be quantified to both minimize potential sources of error/bias and to generate data that can be statistically tested. Digital data will be made available in an open access library to other researchers.
 
-<img src="images/DSC_0360.jpeg" alt="LSM Zeiss microscope" width="400"/>
+<img src="images/DSC_0360.jpeg" alt="LSM Zeiss microscope" width="300"/>
 
 
 **Facilities and equipment**
