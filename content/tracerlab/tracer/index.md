@@ -2,12 +2,16 @@
 title: "Laboratory for Traceology and Controlled Experiments"
 categories: null
 date: "2020-07-03T00:00:00Z"
-draft: false
+output: pdf_document
 featured: false
 image:
-  caption: "Laboratory for Traceology and Controlled Experiments"
-  placement: center
-  alignment: center
+  caption: Laboratory for Traceology and Controlled Experiments
+  placement: 2
+  focal_point: center
+  preview_only: false
+  alt: Lab
+  width: 1200
+  height: 350
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
 subtitle: ''
@@ -15,6 +19,7 @@ summary: The Laboratory for Traceology and Controlled Experiments (TraCEr) runs 
   the research umbrella of the MONREPOS Archaeological Research Centre and Museum
   for Human Behavioural Evolution, namely, understanding the evolution of our behaviour...
 tags: null
+draft: false
 ---
 
 **About**
