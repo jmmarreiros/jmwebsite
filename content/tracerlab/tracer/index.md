@@ -10,8 +10,8 @@ image:
   focal_point: center
   preview_only: false
   alt: Lab
-  width: 1200
-  height: 350
+  width: 600
+  height: 175
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
 subtitle: ''
