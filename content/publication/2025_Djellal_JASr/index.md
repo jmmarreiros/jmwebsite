@@ -22,7 +22,8 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2024-08-31T00:00:00Z"
-summary: .
+summary: In this study we carried out use-wear analysis on a stone tool collection made of coarse-grained lithic raw materials from the Aterian sequence at Rhafas Cave in northeast Morocco. The idea was to look at how those heavier, chunkier raw materials were actually used — not just what they look like, but how they were worn in practice. We found that coarse-grained lithic tools show distinct use-wear patterns, which suggest active and probably diverse uses rather than passive or incidental wear. The wear on those tools indicates that the tool-makers weren’t just using whatever stone was at hand, they were making use of coarse-grained raw materials in ways that reflect deliberate choices and functional uses, not just “tools for now. This supports the idea that the Aterian assemblages from Rhafas Cave carry deeper behavioural significance: choice of raw material, maintenance or curation of tools, and possibly task specialisation are all in the picture.
+
 
 tags:
 - Aterian technology

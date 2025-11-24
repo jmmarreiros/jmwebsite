@@ -30,7 +30,10 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2024-07-31T00:00:00Z"
-summary: xxx
+summary: We ran a bunch of controlled cutting experiments using stone tools, some with simple straight edges and others knapped and retouched. We used a mechanical tester to make each tool perform 2000 identical cutting strokes—either on softwood or on synthetic bone, so we could see how use-wear develops under tightly controlled conditions. While doing that, we 3D-scanned the tools and used a method borrowed from dental research (Occlusal Fingerprint Analysis, OFA) to simulate exactly where the tool should touch the worked material during cutting. 
+We wanted to know whether the areas predicted by the simulation actually match where polish and other use-wear traces show up on the tools after the experiments.
+We also tested how much the shape of the tool and the hardness of the worked material influence where and how wear forms.
+The simulated contact zones and the real use-wear areas overlapped surprisingly well—especially for wood. The simulations tended to predict slightly bigger contact zones than the polish we actually saw, but the overall patterns matched. This approach could be used to build “wear prediction libraries” that help archaeologists understand how different stone-tool shapes and materials would wear during actual use. It could even help distinguish true use-wear from natural damage. Basically, the study shows that combining controlled experiments, 3D modelling, and simulations can give us much clearer insight into how stone tools were used in the past.
 
 tags:
 - Occlusal Fingerprint Analysis

@@ -39,7 +39,9 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2024-06-31T00:00:00Z"
-summary: xxx
+summary: In this study, our team built a controlled mechanical experiment using standardised stone-tool blanks (based on the bifacial backed knives known as Keilmesser from the Late Middle Palaeolithic). We varied two key design features:raw material (e.g., flint vs siliceous schist), and edge angle (35° vs 45°)
+We then put each tool through the same cutting or carving movement under machine-controlled conditions and measured how well it performed—how deep it cut, how much damage it took, how durable it remained. The main questions focused on: 1) Does the type of rock (its hardness, structure, flaws) affect how well the tool performs?, 2) Does the angle of the edge (sharper vs slightly flatter) affect efficiency (how much work it does) and durability (how much it wears down or breaks)?, and finally, 3)	What do these results tell us about the decisions that human tool-makers in the Neanderthal era might have been making when selecting raw material and designing edges?
+Results showed that both raw material and edge angle matter. Tools made of flint (harder material) showed less obvious damage at the sharper angle compared to those made of siliceous schist, which were more brittle and exhibited more micro-fracturing. Additionally, the edge angle had a real effect: sharper edges (35°) usually cut deeper but also tended to wear faster. In some cases, the 45° angle fared better in durability for carving movements. These results suggest that tool-makers weren’t just picking stones randomly or designing edges arbitrarily—they likely were making decisions based on how different combinations of raw material and geometry would perform for the required tasks.
 
 tags:
 - Use-wear analysis
