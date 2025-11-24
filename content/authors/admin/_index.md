@@ -57,5 +57,5 @@ I am passionate about the evolution of technology. As an achaeologist, I’m int
 
 This independent website is about my research on Pleistocene Archaeology! The main aim is to **disseminate my research, and share data and details about my projects in the lab and field**. Feel free to get in touch!
 
-I'll regularly update this site with news on my projects, brief intros to my most recent published papers and other research material. You can also find me online on [Bluesky](https://bsky.app/profile/jmarreiros.bsky.social).
+I'll regularly update this site with news on my projects, brief intros to my most recent published papers and other research material. You can also find me online on [Bluesky](https://bsky.app/profile/jmarreiros.bsky.social) (I am not using X anymore).
 
