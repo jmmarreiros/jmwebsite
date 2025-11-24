@@ -50,6 +50,14 @@ The imaging laboratory will be dedicated to macroscopic and microscopic imaging,
 -   Upright light microscope, Zeiss Axio Imager.Z2 Vario, coupled to a 3D laser-scanning confocal microscope, Zeiss LSM 800 MAT
 -   Scanning electron microscope, Zeiss EVO 25, coupled to an energy-dispersive X-ray spectroscopy detector, Bruker Quantax XFlash 6\|30M
 
+
+<div style="display:flex; gap:10px; justify-content:flex-start; flex-wrap:nowrap;">
+  <img src="images/DSC_0261.JPG" alt="Stereo microscope" style="width:200px; height:auto;">
+  <img src="images/P1110478.JPG" alt="Digital microscope" style="width:200px; height:auto;">
+  <img src="images/P1110477.JPG" alt="Upright microscope" style="width:200px; height:auto;">
+  <img src="images/DSC_0241.JPG" alt="3D scanner" style="width:200px; height:auto;">
+</div>
+
 <img src="images/DSC_0261.JPG" alt="Stereo microscope" width="200"/>
 <img src="images/P1110478.JPG" alt="Digital microscope" width="200"/>
 <img src="images/P1110477.JPG" alt="Upright microscope" width="200"/>
@@ -73,9 +81,9 @@ The office and archive room includes office desks and a reference library for st
 
 The experimental workshop is equipped to test different materials and activities. Experimental setups will be as controlled as possible, combining several mechanical appliances and material properties testers.
 
-<img src="images/david_nora.jpg" alt="3D models" width="200"/>
-<img src="images/_DSC5207.JPG" alt="3D models" width="200"/>
-<img src="images/_DSC7468.JPG" alt="3D models" width="200"/>
+<img src="images/david_nora.jpeg" alt="Robotic experiments" width="200"/>
+<img src="images/_DSC5207.JPG" alt="Scraping experiments" width="200"/>
+<img src="images/_DSC7468.JPG" alt="Cutting experiments" width="200"/>
 
 
 **Team**
