@@ -23,13 +23,13 @@ publishDate: "2023-06-31T00:00:00Z"
 summary: This paper is dedicated to the evaluate the importance of using standard contact material in laboratory experimental replications, in particular in use-wear studies. 
 We ran controlled experiments to see how using artificial materials (instead of natural ones) as the contact surface affects the wear and polish that develop on stone tools. In other words: we wanted to test whether “fake” materials (used in experiments) behave similarly to “real” worked materials in producing use-wear traces.
 What we looked at:
-	•	Do artificial contact materials generate wear (especially polish) that’s comparable to what we see when tools are used on natural materials?
-	•	How strongly do different variables (tool material, contact material, motion, duration) affect the polish formation?
-	•	Can we trust experiments using artificial materials to produce valid analogues for archaeological tools?
+* Do artificial contact materials generate wear (especially polish) that’s comparable to what we see when tools are used on natural materials?
+* How strongly do different variables (tool material, contact material, motion, duration) affect the polish formation?
+* Can we trust experiments using artificial materials to produce valid analogues for archaeological tools?
 What we found:
-	•	Yes, artificial contact materials can produce recognizable wear and polish, but the nature of the contact material still matters a lot.
-	•	The choice of contact material strongly influences how the polish forms (its appearance, size, intensity).
-	•	Because the wear outcomes vary so much depending on contact material, using artificial materials in experiments must be done carefully—properly documenting and controlling the variables is key for interpretation.
+* Yes, artificial contact materials can produce recognizable wear and polish, but the nature of the contact material still matters a lot.
+* The choice of contact material strongly influences how the polish forms (its appearance, size, intensity).
+* Because the wear outcomes vary so much depending on contact material, using artificial materials in experiments must be done carefully—properly documenting and controlling the variables is key for interpretation.
 
 This study shows that when archaeologists run use‐wear experiments, the “target” material (the substance the tool contacts) critically shapes the wear traces. If the target is artificial, differences from natural behaviour could mislead functional interpretations unless the experiment is well documented. It raises important caution about how experimental results are used to interpret archaeological tools.
 
