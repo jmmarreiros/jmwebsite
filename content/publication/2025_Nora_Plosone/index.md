@@ -5,7 +5,7 @@ authors:
 - David Nora
 - et al.
 
-date: "2025"
+date: "2025-07-23T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0327215"
 
 featured: false
