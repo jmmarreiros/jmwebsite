@@ -59,13 +59,18 @@ Also, hypotheses related to the potential of an intentionally optimised
 design for different tasks have not been tested yet. these questions can
 only be addressed by the combination of the different scales of analysis
 and methods as techno-typological and material properties studies,
-use-wear analysis, and controlled experiments. Investigating and
+use-wear analysis, and controlled experiments. 
+
+<img src="images/Fig_8.jpg" alt="Tool edge angle" width="200"
+      style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
+
+
+Investigating and
 understanding aspects such as the underlying tool concept and design as
 well as tool function and use, here applied to the case study of
 Keilmesser, is conditional upon tracing certain behavioural phenomena of
 Neanderthals.
 
-![](images/Fig_8.jpg)
 
 
 **Research agenda and goals**
@@ -98,15 +103,18 @@ the unanswered remaining questions. Taken together, this proposed
 approach will combine three research avenues, comprising several
 supplementing and intertwined methods. Thereby, different scales of
 analysis, from macroscopic to microscopic, will highlight possible
-determining aspects and correlating factors. All experimental designs
+determining aspects and correlating factors. 
+
+<img src="images/figure_7.jpg" alt="Edge damage" width="200"
+      style="float:left; width:200px; margin:0 0 1rem 1rem;"/>
+
+All experimental designs
 will be built upon data collected from the archaeological samples. This
 combination will work on a two-way relation of comparison and testing
 between archaeological and experimental assemblages. An assessment of
 tool performance will be focused on understanding aspects of tool
 effectiveness, efficiency, and durability, and how these relate to the
 different features involved in the tool’s design.
-
-![](images/figure_7.jpg)
 
 
 **Team**

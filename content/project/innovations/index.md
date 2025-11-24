@@ -46,20 +46,27 @@ replacement of surficial Levallois flake technology over into UP
 volumetric elongated technologies (blade and bladelets). Understanding
 the demands for such technological changes has the potential to
 untangle, major processes involved in the evolution of human
-technological behaviours. Use-wear studies investigate how stone tool
+technological behaviours. 
+
+<img src="images/273_1.25x_edgedamage.png" alt="Edge damage" width="200"
+      style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
+
+Use-wear studies investigate how stone tool
 tools were used, and are, therefore, crucial to identifying the trigger
 mechanisms of behavioural shifts and reconstructing the causes of
 technological change. Based on use-wear analysis, this project aims to
 test whether stone tool changes during the LMP-UP transition are related
 to different activities, processed resources, or related to constraints
-of social and cultural history (no change on tool use). By addressing
+of social and cultural history (no change on tool use). 
+
+<img src="images/396_10x_AOI1.png" alt="micro traces if use" width="200"
+      style="float:left; width:200px; margin:0 0 1rem 1rem;"/>
+      
+By addressing
 aspects that cannot be assessed by technological and typological
 studies, this project has the potential to elucidate the correlation
 between changes in the production, design, and use of stone tools during
 a key transitional process in our evolutionary journey.
-
-![](images/273_1.25x_edgedamage.png)
-
 
 **Research agenda and goals**
 
@@ -85,7 +92,12 @@ chronologically. The included key LMP, IUP and EUP (Ahmarian) case
 studies from the Levant are: Boker Tachtit (IUP), Far’ah II (LMP), B37
 (LMP), B27 (LMP) and Al-Ansab 1 and 2 (IUP-EUP) in the south, and Manot
 (EUP) and Amud (LMP) from the northern region (see Fig. 1 and Tab. 1,
-appendix, for more details). Combining fields of quantitative artefact
+appendix, for more details). 
+
+<img src="images/396_DIF_v2.tif" alt="Impact damage" width="200"
+      style="float:left; width:200px; margin:0 0 1rem 1rem;"/>
+
+Combining fields of quantitative artefact
 microwear analysis, lithic technology, and typology with experimental
 reference libraries, will facilitate an interdisciplinary methodology to
 characterize and document the different signatures for tool use. In this
@@ -105,9 +117,6 @@ will be used to test a series of empirically based hypotheses:
     constraints of social and cultural history. Prediction: If true, no
     significant link between tool types and their use or performance is
     observed among LMP and IUP stone tools.
-
-![](images/396_10x_AOI1.png)
-
 
 **Team**
 
