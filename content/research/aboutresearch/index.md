@@ -29,13 +29,12 @@ In the same way, I aim to uncover how prehistoric tools, and the ways they were 
 
 <img src="images/2.JPG" alt="Field work" width="400"
       style="float:right; width:400px; margin:1 0 1rem 1rem;"/>
+      
+<img src="images/1.png" alt="Confocal microscopy" width="200"
+      style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
 
 To do so, I, together with several collaborators, focus my research on key transitional moments in the Palaeolithic record, such as the Late Middle Palaeolithic-Initial Palaeolithic transition, and in geographic regions where these transitions seem to be present (such as North Africa, Ethiopia, Central Europe, Levante and Caucasus).
 From the methodological point of view, I am very keen on developing new methods and techniques that allow us to investigate artefacts. 
-
-<img src="images/1.png" alt="Confocal microscopy" width="400"
-      style="float:right; width:400px; margin:0 0 1rem 1rem;"/>
-
 In this field, I am particularly interested in doing lab-controlled experiments and quantitative methods and techniques applied to the study of traces of use. 
 
 

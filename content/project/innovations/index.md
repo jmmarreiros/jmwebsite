@@ -48,8 +48,8 @@ the demands for such technological changes has the potential to
 untangle, major processes involved in the evolution of human
 technological behaviours. 
 
-<img src="images/273_1.25x_edgedamage.png" alt="Edge damage" width="400"
-      style="float:right; width:400px; margin:0 0 1rem 1rem;"/>
+<img src="images/273_1.25x_edgedamage.png" alt="Edge damage" width="200"
+      style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
 
 Use-wear studies investigate how stone tool
 tools were used, and are, therefore, crucial to identifying the trigger
@@ -60,7 +60,7 @@ to different activities, processed resources, or related to constraints
 of social and cultural history (no change on tool use). 
 
 <img src="images/396_10x_AOI1.png" alt="micro traces if use" width="200"
-      style="float:left; width:200px; margin:0 0 1rem 1rem;"/>
+      style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
       
 By addressing
 aspects that cannot be assessed by technological and typological
@@ -95,7 +95,7 @@ studies from the Levant are: Boker Tachtit (IUP), Far’ah II (LMP), B37
 appendix, for more details). 
 
 <img src="images/396_DIF_v2.jpg" alt="Impact damage" width="400"
-      style="float:left; width:400px; margin:1 0 1rem 1rem;"/>
+      style="float:right; width:400px; margin:1 0 1rem 1rem;"/>
 
 Combining fields of quantitative artefact
 microwear analysis, lithic technology, and typology with experimental
