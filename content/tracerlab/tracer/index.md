@@ -24,8 +24,8 @@ In Pleistocene Archaeology, interpreting artefact variability in the archaeologi
 
 **Method**
 
-<img src="images/surface.jpg" alt="Surface texture analysis" width="200"
-      style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
+<img src="images/surface.jpg" alt="Surface texture analysis" width="400"
+      style="float:right; width:400px; margin:0 0 1rem 1rem;"/>
 
 By developing innovative and controlled experimental protocols, as well as high-resolution 3D imaging techniques, methods will be improved in order to assess the formation criteria of use-wear traces on different types of materials found in the archaeological record (this involves organic, such as hard animal materials, but also non-organic, such as stone tools). Methodological apparatus (i.e. mechanical devices) will be used to improve experimental validation, establish protocols and define standards, contributing to establishing standards in the experimental protocols and in the data acquisition, documentation and quantification on use-wear studies.
 
