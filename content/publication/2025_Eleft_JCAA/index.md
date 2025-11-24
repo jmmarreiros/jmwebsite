@@ -29,7 +29,6 @@ tags:
 - Use-wear analysis
 - Machine Learning
 - Computational Archaeology
-featured: false
 
 title: "Machine Learning Applications in Use-Wear Analysis: A Critical Review"
 

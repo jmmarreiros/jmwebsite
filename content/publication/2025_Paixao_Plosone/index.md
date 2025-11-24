@@ -26,7 +26,6 @@ tags:
 - Raw material
 - Experimental archaeology
 - Acheulean
-featured: false
 
 title: "Exploring early Acheulian technological decision-making: A controlled experimental approach to raw material selection for percussive artifacts in Melka Wakena, Ethiopia"
 

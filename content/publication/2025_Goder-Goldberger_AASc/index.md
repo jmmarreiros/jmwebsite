@@ -25,7 +25,6 @@ tags:
 - Middle Palaeolithic
 - Engraved artefacts
 - 3D surface analysis
-featured: false
 
 title: "Incised stone artefacts from the Levantine Middle Palaeolithic and human behavioural complexity"
 

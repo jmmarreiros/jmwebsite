@@ -30,7 +30,6 @@ tags:
 - Middle Stone Age
 - Use-wear
 - Quartzite
-featured: false
 
 title: "Unveiling the behavioural significance of the Aterian coarse-grained lithic assemblages: Insights from use-wear analysis of Rhafas Cave, Northeast Morocco"
 

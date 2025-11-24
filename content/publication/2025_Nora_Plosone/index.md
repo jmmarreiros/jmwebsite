@@ -19,21 +19,13 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2025-06-31T00:00:00Z"
-summary: In this experiment we tested how different stone raw materials perform as tools—specifically looking at four types: flint, dacite, quartzite and obsidian. We cut into pinewood under identical conditions and measured two key things: how deep the tool edge cuts (effectiveness) and how much the edge wore down (durability).  We also measured material‐properties like hardness and grain size to see how those link to performance. 
-What we looked at, Does tool edge “efficiency” vary with raw material type? (Our null hypothesis was that it doesn’t.)Which materials cut the deepest and also resist wear the best?	How do traditional categories of “high quality” vs “low quality” raw materials hold up when tested quantitatively under use?
-We found that the different raw materials behaved very differently, flint showed the highest overall performance (deep cuts and moderate wear). Quartzite, though often considered “low quality,” performed surprisingly well once the initial edge fragmentation settled. Obsidian was brittle and wore fast; dacite had good early performance but then plateaued.
-Additionally, the classic fine‐grain vs coarse‐grain raw material classification (flint = fine, quartzite = coarse) is too simplistic: some coarse‐grained materials (like quartzite here) can be efficient tool materials under certain conditions.
-
-For archaeologists this study gives us experimental data that supports the idea that raw material choice was not random. People in the past likely made technological decisions based on performance of the tool‐materials, not just availability. It also suggests that when you see certain raw materials in the archaeological record, you might infer something about the tasks they were used for, the mobility or procurement strategies of tool‐makers, or even maintenance/resharpening practices.
-
-
+summary: In this experiment we tested how different stone raw materials perform as tools—specifically looking at four types: flint, dacite, quartzite and obsidian. We cut into pinewood under identical conditions and measured two key things: how deep the tool edge cuts (effectiveness) and how much the edge wore down (durability).  We also measured material‐properties like hardness and grain size to see how those link to performance.  What we looked at, Does tool edge “efficiency” vary with raw material type? (Our null hypothesis was that it doesn’t.)Which materials cut the deepest and also resist wear the best?	How do traditional categories of “high quality” vs “low quality” raw materials hold up when tested quantitatively under use? We found that the different raw materials behaved very differently, flint showed the highest overall performance (deep cuts and moderate wear). Quartzite, though often considered “low quality,” performed surprisingly well once the initial edge fragmentation settled. Obsidian was brittle and wore fast; dacite had good early performance but then plateaued. Additionally, the classic fine‐grain vs coarse‐grain raw material classification (flint = fine, quartzite = coarse) is too simplistic: some coarse‐grained materials (like quartzite here) can be efficient tool materials under certain conditions. For archaeologists this study gives us experimental data that supports the idea that raw material choice was not random. People in the past likely made technological decisions based on performance of the tool‐materials, not just availability. It also suggests that when you see certain raw materials in the archaeological record, you might infer something about the tasks they were used for, the mobility or procurement strategies of tool‐makers, or even maintenance/resharpening practices.
 
 tags:
 - Tool use and efficiency
 - Raw material
 - Experimental archaeology
 - Stone tool technology
-featured: false
 
 title: "The dichotomy of human decision-making: An experimental assessment of stone tool efficiency"
 
