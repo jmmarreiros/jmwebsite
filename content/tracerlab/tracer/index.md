@@ -24,7 +24,7 @@ In Pleistocene Archaeology, interpreting artefact variability in the archaeologi
 
 **Method**
 
-<img src="images/DSC_0278.JPG" alt="Confocal microscope" width="200"
+<img src="images/surface.jpg" alt="Surface texture analysis" width="200"
       style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
 
 By developing innovative and controlled experimental protocols, as well as high-resolution 3D imaging techniques, methods will be improved in order to assess the formation criteria of use-wear traces on different types of materials found in the archaeological record (this involves organic, such as hard animal materials, but also non-organic, such as stone tools). Methodological apparatus (i.e. mechanical devices) will be used to improve experimental validation, establish protocols and define standards, contributing to establishing standards in the experimental protocols and in the data acquisition, documentation and quantification on use-wear studies.
@@ -58,11 +58,6 @@ The imaging laboratory will be dedicated to macroscopic and microscopic imaging,
   <img src="images/DSC_0241.JPG" alt="3D scanner" style="width:200px; height:auto;">
 </div>
 
-<img src="images/DSC_0261.JPG" alt="Stereo microscope" width="200"/>
-<img src="images/P1110478.JPG" alt="Digital microscope" width="200"/>
-<img src="images/P1110477.JPG" alt="Upright microscope" width="200"/>
-<img src="images/DSC_0241.JPG" alt="3D scanner" width="200"/>
-
 *Sampling laboratory*
 
 The Sampling lab will be used for preparing all different types of samples, including different materials used for experiments and archaeological artefacts for analysis.
@@ -73,18 +68,21 @@ The Sampling lab will be used for preparing all different types of samples, incl
 
 The office and archive room includes office desks and a reference library for state-of-the-art bibliography on use-wear and controlled experiments regarding theoretical background, methods and techniques, and also archaeological case studies. This room also hosts the TraCEr use-wear experimental reference collection.
 
-<img src="images/DSC_0254.JPG" alt="Raw material" width="200"/>
-<img src="images/DSC_0256.JPG" alt="aw material" width="200"/>
-<img src="images/DSC_0248.JPG" alt="3D models" width="200"/>
+<div style="display:flex; gap:10px; justify-content:flex-start; flex-wrap:nowrap;">
+  <img src="images/DSC_0254.JPG" alt="Raw material" style="width:200px; height:auto;">
+  <img src="images/DSC_0256.JPG" alt="aw material" style="width:200px; height:auto;">
+  <img src="images/DSC_0248.JPG" alt="3D models" style="width:200px; height:auto;">
+</div>
 
 *Experimental workshop*
 
 The experimental workshop is equipped to test different materials and activities. Experimental setups will be as controlled as possible, combining several mechanical appliances and material properties testers.
 
-<img src="images/david_nora.jpeg" alt="Robotic experiments" width="200"/>
-<img src="images/_DSC5207.JPG" alt="Scraping experiments" width="200"/>
-<img src="images/_DSC7468.JPG" alt="Cutting experiments" width="200"/>
-
+<div style="display:flex; gap:10px; justify-content:flex-start; flex-wrap:nowrap;">
+  <img src="images/david_nora.jpeg" alt="Robotic experiments" style="width:200px; height:auto;">
+  <img src="images/_DSC5207.JPG" alt="Scraping experiments" style="width:200px; height:auto;">
+  <img src="images/_DSC7468.JPG" alt="Cutting experiments" style="width:200px; height:auto;">
+</div>
 
 **Team**
 
