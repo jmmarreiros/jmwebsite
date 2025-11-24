@@ -19,7 +19,7 @@ publication_short: ""
 publication_types:
 - 2
 publishDate: "2025-08-31T00:00:00Z"
-summary: .
+summary: This study was good fun! We analysed five stone artefacts from the Levantine Middle Palaeolithic, two are engraved Levallois cores from Manot Cave and Qafzeh Cave, one engraved plaquette from Quneitra, and two cortical artefacts (a flake and a retouched blade) from Amud Cave. We used 3D surface‐analysis techniques (morphometry of incision geometry) to characterise the incisions on each artefact (depth, width, angle, pattern). The study shows that by analysing incision geometry and spatial distribution, one can distinguish between engraved artefacts (intentional) and artefacts modified by functional processes. I think, this paper provides empirical evidence that some Middle Palaeolithic hominins in the Levant were engaging in behaviours that go beyond simple tool use — hinting at abstract, non‐utilitarian or symbolic behaviour, which pushes our understanding of cognitive complexity earlier than often assumed.  Also, it helps bridge the gap between “tool use” and “symbolic behaviour” in early human evolution, by showing that even some stone tools may have been subject to engraving as part of non-subsistence practices.
 
 tags:
 - Middle Palaeolithic

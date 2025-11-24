@@ -18,12 +18,12 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: "*PLOSONE* (2024)"
+publication: "*Journal of Computer Applications in Archaeology* (2025)"
 publication_short: ""
 publication_types:
 - 2
 publishDate: "2024-08-31T00:00:00Z"
-summary: .
+summary: In this exciting work, we looked at how machine learning (ML) has been used in the field of use-wear analysis (that is, the study of the microscopic and macroscopic traces left on tools and artifacts from being used). We collected and reviewed nearly 50 case-studies spanning material types (lithics, bone, wood), ML algorithms, dataset sizes, and open science practices. We see that use-wear analysis is growing, but still quite limited in scope and diversity. Many studies use small datasets, often from the same institutions, focusing on just a few materials. Thus we argue that to make ML truly useful in this field, researchers need: greater dataset size and diversity, cross-institution collaboration, better documentation of methods, and open sharing of data and code. This review is a call-to-arms for archaeological scientists using ML: it shows what’s working, what’s not yet working, and what needs to change so that ML can genuinely help use-wear analysis rather than just being a flashy add-on. It helps researchers understand how to build better models, share better data, and ask better research questions.
 
 tags:
 - Use-wear analysis
