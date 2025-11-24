@@ -7,23 +7,25 @@ featured: false
 lastmod: "2020-07-03T00:00:00Z"
 projects: []
 subtitle: ''
-summary: The Laboratory for Traceology and Controlled Experiments (TraCEr) runs under
-  the research umbrella of the MONREPOS Archaeological Research Centre and Museum
-  for Human Behavioural Evolution, namely, understanding the evolution of our behaviour...
+summary: The Laboratory for Traceology and Controlled Experiments (TraCEr) focuses on understanding how early humans used their tools and what that tells us about the evolution of human behaviour. Archaeologists often argue about why stone tools look so different from one site to another, was it because people used different raw materials, did different tasks, or had different traditions? TraCEr tries to answer these questions by studying what tools were actually used for, not just how they were made. Since humans in the past used all kinds of materials (e.g., stone, bone, wood, metal) figuring out tool function is key to understanding how people lived, adapted, and solved problems. TraCEr’s main mission is to push functional studies forward by combining experimental work, new methods, and cutting-edge imaging technology. (enter to learn home)
+
 tags: null
 draft: false
 ---
 
 **About**
 
-The Laboratory for Traceology and Controlled Experiments (TraCEr) runs under the research umbrella of the MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, namely, understanding the evolution of our behaviour during the early history of humanity. 
-
 <img src="images/logo.jpg" alt="TraCEr" width="200"
       style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
       
+The Laboratory for Traceology and Controlled Experiments (TraCEr) runs under the research umbrella of the MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, namely, understanding the evolution of our behaviour during the early history of humanity. 
+
 In Pleistocene Archaeology, interpreting artefact variability in the archaeological record has long been one of the most debated topics, mainly related to different types of raw materials and their possible use by past humans. In fact, to what uses humans put their tools and how these might have varied through time and space is one of the key areas of research for understanding the evolution of human behaviour. The very presence of diverse types of materials in artefacts assemblages shows that humans managed different resources and, therefore, technology was characterized by the production of different tools made from materials with different properties. Functional studies are of major importance in order to determine and understand artefact use, and thus to address fundamental questions about the evolution of human behaviour. The main scope of TraCEr is to carry ground-breaking functional studies that combine 1) methodological development and 2) fundamental research on Pleistocene and Early Holocene archaeology.
 
 **Method**
+
+<img src="images/DSC_0278.JPG" alt="Confocal microscope" width="200"
+      style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
 
 By developing innovative and controlled experimental protocols, as well as high-resolution 3D imaging techniques, methods will be improved in order to assess the formation criteria of use-wear traces on different types of materials found in the archaeological record (this involves organic, such as hard animal materials, but also non-organic, such as stone tools). Methodological apparatus (i.e. mechanical devices) will be used to improve experimental validation, establish protocols and define standards, contributing to establishing standards in the experimental protocols and in the data acquisition, documentation and quantification on use-wear studies.
 
@@ -34,8 +36,6 @@ a)  Controlled experiments will be designed to improve the identification, measu
 b)  One often neglected factor is the range of raw materials properties (e.g. hardness, roughness); the lab will also assess the properties of the tested materials, and their influence on the results.
 
 c)  High-resolution 3D imaging methods will be applied to document, quantify and interpret use-wear traces on both experimental and archaeological samples. 3D digital data will be quantified to both minimize potential sources of error/bias and to generate data that can be statistically tested. Digital data will be made available in an open access library to other researchers.
-
-<img src="images/DSC_0360.jpeg" alt="LSM Zeiss microscope" width="200"/>
 
 **Facilities and equipment**
 
@@ -50,17 +50,33 @@ The imaging laboratory will be dedicated to macroscopic and microscopic imaging,
 -   Upright light microscope, Zeiss Axio Imager.Z2 Vario, coupled to a 3D laser-scanning confocal microscope, Zeiss LSM 800 MAT
 -   Scanning electron microscope, Zeiss EVO 25, coupled to an energy-dispersive X-ray spectroscopy detector, Bruker Quantax XFlash 6\|30M
 
+<img src="images/DSC_0261.JPG" alt="Stereo microscope" width="200"/>
+<img src="images/P1110478.JPG" alt="Digital microscope" width="200"/>
+<img src="images/P1110477.JPG" alt="Upright microscope" width="200"/>
+<img src="images/DSC_0241.JPG" alt="3D scanner" width="200"/>
+
 *Sampling laboratory*
 
 The Sampling lab will be used for preparing all different types of samples, including different materials used for experiments and archaeological artefacts for analysis.
+
+<img src="images/IMG_1238.jpeg" alt="Cleaning lab" width="200"/>
 
 *Reference archive*
 
 The office and archive room includes office desks and a reference library for state-of-the-art bibliography on use-wear and controlled experiments regarding theoretical background, methods and techniques, and also archaeological case studies. This room also hosts the TraCEr use-wear experimental reference collection.
 
+<img src="images/DSC_0254.JPG" alt="Raw material" width="200"/>
+<img src="images/DSC_0256.JPG" alt="aw material" width="200"/>
+<img src="images/DSC_0248.JPG" alt="3D models" width="200"/>
+
 *Experimental workshop*
 
 The experimental workshop is equipped to test different materials and activities. Experimental setups will be as controlled as possible, combining several mechanical appliances and material properties testers.
+
+<img src="images/david_nora.jpg" alt="3D models" width="200"/>
+<img src="images/_DSC5207.JPG" alt="3D models" width="200"/>
+<img src="images/_DSC7468.JPG" alt="3D models" width="200"/>
+
 
 **Team**
 
