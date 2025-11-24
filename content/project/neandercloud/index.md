@@ -61,8 +61,8 @@ only be addressed by the combination of the different scales of analysis
 and methods as techno-typological and material properties studies,
 use-wear analysis, and controlled experiments. 
 
-<img src="images/Fig_8.jpg" alt="Tool edge angle" width="200"
-      style="float:right; width:200px; margin:0 0 1rem 1rem;"/>
+<img src="images/Fig_8.jpg" alt="Tool edge angle" width="400"
+      style="float:right; width:400px; margin:0 0 1rem 1rem;"/>
 
 
 Investigating and
@@ -70,8 +70,6 @@ understanding aspects such as the underlying tool concept and design as
 well as tool function and use, here applied to the case study of
 Keilmesser, is conditional upon tracing certain behavioural phenomena of
 Neanderthals.
-
-
 
 **Research agenda and goals**
 
@@ -105,8 +103,8 @@ supplementing and intertwined methods. Thereby, different scales of
 analysis, from macroscopic to microscopic, will highlight possible
 determining aspects and correlating factors. 
 
-<img src="images/figure_7.jpg" alt="Edge damage" width="200"
-      style="float:left; width:200px; margin:0 0 1rem 1rem;"/>
+<img src="images/figure_7.jpg" alt="Edge damage" width="400"
+      style="float:left; width:400px; margin:1 0 1rem 1rem;"/>
 
 All experimental designs
 will be built upon data collected from the archaeological samples. This
