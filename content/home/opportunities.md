@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Recent opportunities"
-subtitle = "Job call and internships"
+title = "Call for collaborations"
+subtitle = "Collaborations, job calls and internships"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

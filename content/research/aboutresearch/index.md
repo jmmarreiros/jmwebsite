@@ -1,5 +1,5 @@
 ---
-title: "Past human technologies"
+title: "How do I investigate past human technologies?"
 categories: null
 date: "2020-07-03T00:00:00Z"
 draft: false
