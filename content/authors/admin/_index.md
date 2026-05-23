@@ -4,7 +4,7 @@ authors: admin
 superuser: yes
 role: Research Group Leader
 organizations:
-- name: "Leibniz Zentrum für Archaeologie (LEIZA) - MONREPOS"
+- name: "Leibniz Zentrum für Archaeologie (LEIZA)"
   url: "https://www.leiza.de/ueber-uns/team/person/joao-manuel-figueiras-marreiros"
 - name: ICArEHB, University of Algarve
   url: http://www.icarehb.com/jmarreiros/

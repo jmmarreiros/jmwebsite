@@ -19,7 +19,7 @@
   weight = 50
 
 [[main]]
-  name = "Lab TraCEr (LEIZA-MONREPOS)"
+  name = "Lab TraCEr (LEIZA)"
   url = "#tracerlab"
   weight = 60
 
