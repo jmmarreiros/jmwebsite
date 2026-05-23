@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "StoneUseWear, Using controlled experiments and 3D data quantification to understand stone use-wear formation"
   url = ""
   certificate_url = ""
-  date_start = "2017-10-01"
-  date_end = "2017-01-01"
+  date_start = "Position declined"
+  date_end = ""
   description = ""
 
 [[item]]

@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "TraCEr at LEIZA"
-subtitle = "Laboratory for Traceology and Controlled Experiments"
+title = "TraCEr (LEIZA)"
+subtitle = "Laboratory for Traceology and Controlled Experiments (MONREPOS)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
