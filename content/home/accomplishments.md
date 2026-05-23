@@ -41,10 +41,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Marie Curie Individual Fellowships (IF) (MSCA-IF-EF-ST)"
   organization_url = ""
-  title = "StoneUseWear, Using controlled experiments and 3D data quantification to understand stone use-wear formation"
+  title = "(**Position declined**)StoneUseWear, Using controlled experiments and 3D data quantification to understand stone use-wear formation"
   url = ""
   certificate_url = ""
-  date_start = "Position declined"
+  date_start = ""
   date_end = ""
   description = ""
 
